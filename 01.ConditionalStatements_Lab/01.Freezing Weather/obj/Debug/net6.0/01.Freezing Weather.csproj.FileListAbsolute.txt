@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\01.Freezing Weather\bin\Debug\net6.0\01.Freezing Weather.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\01.Freezing Weather\bin\Debug\net6.0\01.Freezing Weather.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\01.Freezing Weather\bin\Debug\net6.0\01.Freezing Weather.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\01.Freezing Weather\bin\Debug\net6.0\01.Freezing Weather.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\01.Freezing Weather\bin\Debug\net6.0\01.Freezing Weather.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\01.Freezing Weather\obj\Debug\net6.0\01.Freezing Weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\01.Freezing Weather\obj\Debug\net6.0\01.Freezing Weather.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\01.Freezing Weather\obj\Debug\net6.0\01.Freezing Weather.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\01.Freezing Weather\obj\Debug\net6.0\01.Freezing Weather.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\01.Freezing Weather\obj\Debug\net6.0\01.Freezing Weather.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\01.Freezing Weather\obj\Debug\net6.0\refint\01.Freezing Weather.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\01.Freezing Weather\obj\Debug\net6.0\01.Freezing Weather.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\01.Freezing Weather\obj\Debug\net6.0\01.Freezing Weather.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\01.Freezing Weather\obj\Debug\net6.0\ref\01.Freezing Weather.dll
