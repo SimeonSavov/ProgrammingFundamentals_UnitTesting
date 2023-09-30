@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\07.VowelOrConsonant\bin\Debug\net6.0\07.VowelOrConsonant.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\07.VowelOrConsonant\bin\Debug\net6.0\07.VowelOrConsonant.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\07.VowelOrConsonant\bin\Debug\net6.0\07.VowelOrConsonant.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\07.VowelOrConsonant\bin\Debug\net6.0\07.VowelOrConsonant.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\07.VowelOrConsonant\bin\Debug\net6.0\07.VowelOrConsonant.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\07.VowelOrConsonant\obj\Debug\net6.0\07.VowelOrConsonant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\07.VowelOrConsonant\obj\Debug\net6.0\07.VowelOrConsonant.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\07.VowelOrConsonant\obj\Debug\net6.0\07.VowelOrConsonant.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\07.VowelOrConsonant\obj\Debug\net6.0\07.VowelOrConsonant.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\07.VowelOrConsonant\obj\Debug\net6.0\07.VowelOrConsonant.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\07.VowelOrConsonant\obj\Debug\net6.0\refint\07.VowelOrConsonant.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\07.VowelOrConsonant\obj\Debug\net6.0\07.VowelOrConsonant.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\07.VowelOrConsonant\obj\Debug\net6.0\07.VowelOrConsonant.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\07.VowelOrConsonant\obj\Debug\net6.0\ref\07.VowelOrConsonant.dll
