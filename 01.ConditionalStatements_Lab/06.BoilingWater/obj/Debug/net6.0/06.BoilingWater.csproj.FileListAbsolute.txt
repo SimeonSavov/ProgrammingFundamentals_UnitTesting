@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\06.BoilingWater\bin\Debug\net6.0\06.BoilingWater.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\06.BoilingWater\bin\Debug\net6.0\06.BoilingWater.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\06.BoilingWater\bin\Debug\net6.0\06.BoilingWater.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\06.BoilingWater\bin\Debug\net6.0\06.BoilingWater.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\06.BoilingWater\bin\Debug\net6.0\06.BoilingWater.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\06.BoilingWater\obj\Debug\net6.0\06.BoilingWater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\06.BoilingWater\obj\Debug\net6.0\06.BoilingWater.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\06.BoilingWater\obj\Debug\net6.0\06.BoilingWater.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\06.BoilingWater\obj\Debug\net6.0\06.BoilingWater.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\06.BoilingWater\obj\Debug\net6.0\06.BoilingWater.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\06.BoilingWater\obj\Debug\net6.0\refint\06.BoilingWater.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\06.BoilingWater\obj\Debug\net6.0\06.BoilingWater.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\06.BoilingWater\obj\Debug\net6.0\06.BoilingWater.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\06.BoilingWater\obj\Debug\net6.0\ref\06.BoilingWater.dll
