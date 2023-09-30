@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\04.GreaterNumber\bin\Debug\net6.0\04.GreaterNumber.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\04.GreaterNumber\bin\Debug\net6.0\04.GreaterNumber.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\04.GreaterNumber\bin\Debug\net6.0\04.GreaterNumber.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\04.GreaterNumber\bin\Debug\net6.0\04.GreaterNumber.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\04.GreaterNumber\bin\Debug\net6.0\04.GreaterNumber.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\04.GreaterNumber\obj\Debug\net6.0\04.GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\04.GreaterNumber\obj\Debug\net6.0\04.GreaterNumber.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\04.GreaterNumber\obj\Debug\net6.0\04.GreaterNumber.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\04.GreaterNumber\obj\Debug\net6.0\04.GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\04.GreaterNumber\obj\Debug\net6.0\04.GreaterNumber.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\04.GreaterNumber\obj\Debug\net6.0\refint\04.GreaterNumber.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\04.GreaterNumber\obj\Debug\net6.0\04.GreaterNumber.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\04.GreaterNumber\obj\Debug\net6.0\04.GreaterNumber.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\04.GreaterNumber\obj\Debug\net6.0\ref\04.GreaterNumber.dll
