@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\10.SummerOutfit\obj\Debug\net6.0\10.SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\10.SummerOutfit\obj\Debug\net6.0\10.SummerOutfit.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\10.SummerOutfit\obj\Debug\net6.0\10.SummerOutfit.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\10.SummerOutfit\obj\Debug\net6.0\10.SummerOutfit.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\10.SummerOutfit\bin\Debug\net6.0\10.SummerOutfit.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\10.SummerOutfit\bin\Debug\net6.0\10.SummerOutfit.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\10.SummerOutfit\bin\Debug\net6.0\10.SummerOutfit.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\10.SummerOutfit\bin\Debug\net6.0\10.SummerOutfit.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\10.SummerOutfit\bin\Debug\net6.0\10.SummerOutfit.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\10.SummerOutfit\obj\Debug\net6.0\10.SummerOutfit.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\10.SummerOutfit\obj\Debug\net6.0\refint\10.SummerOutfit.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\10.SummerOutfit\obj\Debug\net6.0\10.SummerOutfit.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\10.SummerOutfit\obj\Debug\net6.0\10.SummerOutfit.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\10.SummerOutfit\obj\Debug\net6.0\ref\10.SummerOutfit.dll
