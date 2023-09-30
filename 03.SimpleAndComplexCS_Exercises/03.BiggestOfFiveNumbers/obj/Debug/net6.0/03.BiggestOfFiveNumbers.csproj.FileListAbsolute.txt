@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\03.BiggestOfFiveNumbers\bin\Debug\net6.0\03.BiggestOfFiveNumbers.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\03.BiggestOfFiveNumbers\bin\Debug\net6.0\03.BiggestOfFiveNumbers.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\03.BiggestOfFiveNumbers\bin\Debug\net6.0\03.BiggestOfFiveNumbers.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\03.BiggestOfFiveNumbers\bin\Debug\net6.0\03.BiggestOfFiveNumbers.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\03.BiggestOfFiveNumbers\bin\Debug\net6.0\03.BiggestOfFiveNumbers.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\03.BiggestOfFiveNumbers\obj\Debug\net6.0\03.BiggestOfFiveNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\03.BiggestOfFiveNumbers\obj\Debug\net6.0\03.BiggestOfFiveNumbers.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\03.BiggestOfFiveNumbers\obj\Debug\net6.0\03.BiggestOfFiveNumbers.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\03.BiggestOfFiveNumbers\obj\Debug\net6.0\03.BiggestOfFiveNumbers.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\03.BiggestOfFiveNumbers\obj\Debug\net6.0\03.BiggestOfFiveNumbers.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\03.BiggestOfFiveNumbers\obj\Debug\net6.0\refint\03.BiggestOfFiveNumbers.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\03.BiggestOfFiveNumbers\obj\Debug\net6.0\03.BiggestOfFiveNumbers.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\03.BiggestOfFiveNumbers\obj\Debug\net6.0\03.BiggestOfFiveNumbers.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\03.BiggestOfFiveNumbers\obj\Debug\net6.0\ref\03.BiggestOfFiveNumbers.dll
