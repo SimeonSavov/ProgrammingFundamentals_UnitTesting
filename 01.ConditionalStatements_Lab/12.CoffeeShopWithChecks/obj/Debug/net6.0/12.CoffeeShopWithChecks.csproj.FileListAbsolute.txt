@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\12.CoffeeShopWithChecks\bin\Debug\net6.0\12.CoffeeShopWithChecks.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\12.CoffeeShopWithChecks\bin\Debug\net6.0\12.CoffeeShopWithChecks.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\12.CoffeeShopWithChecks\bin\Debug\net6.0\12.CoffeeShopWithChecks.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\12.CoffeeShopWithChecks\bin\Debug\net6.0\12.CoffeeShopWithChecks.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\12.CoffeeShopWithChecks\bin\Debug\net6.0\12.CoffeeShopWithChecks.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\12.CoffeeShopWithChecks\obj\Debug\net6.0\12.CoffeeShopWithChecks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\12.CoffeeShopWithChecks\obj\Debug\net6.0\12.CoffeeShopWithChecks.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\12.CoffeeShopWithChecks\obj\Debug\net6.0\12.CoffeeShopWithChecks.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\12.CoffeeShopWithChecks\obj\Debug\net6.0\12.CoffeeShopWithChecks.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\12.CoffeeShopWithChecks\obj\Debug\net6.0\12.CoffeeShopWithChecks.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\12.CoffeeShopWithChecks\obj\Debug\net6.0\refint\12.CoffeeShopWithChecks.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\12.CoffeeShopWithChecks\obj\Debug\net6.0\12.CoffeeShopWithChecks.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\12.CoffeeShopWithChecks\obj\Debug\net6.0\12.CoffeeShopWithChecks.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\12.CoffeeShopWithChecks\obj\Debug\net6.0\ref\12.CoffeeShopWithChecks.dll
