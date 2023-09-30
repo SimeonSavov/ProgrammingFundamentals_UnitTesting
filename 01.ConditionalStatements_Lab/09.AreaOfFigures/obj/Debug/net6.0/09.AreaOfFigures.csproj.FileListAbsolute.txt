@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\09.AreaOfFigures\bin\Debug\net6.0\09.AreaOfFigures.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\09.AreaOfFigures\bin\Debug\net6.0\09.AreaOfFigures.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\09.AreaOfFigures\bin\Debug\net6.0\09.AreaOfFigures.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\09.AreaOfFigures\bin\Debug\net6.0\09.AreaOfFigures.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\09.AreaOfFigures\bin\Debug\net6.0\09.AreaOfFigures.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\09.AreaOfFigures\obj\Debug\net6.0\refint\09.AreaOfFigures.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\09.AreaOfFigures\obj\Debug\net6.0\ref\09.AreaOfFigures.dll
