@@ -5,6 +5,7 @@ Welcome to my repository for the 'Programming Fundamentals and Unit Testing' cou
 ## Folder Structure
 
 - **ConditionalStatements_Lab**:
+- **ComplexConditionalStatements**:
 
 ## About the First Section - Conditional Statements (Lesson 1)
 
@@ -21,3 +22,19 @@ In the first section of this course, I delved into the essential concepts of con
 5. **Validation and Error Handling:** I mastered the art of incorporating validation checks into my programs to ensure that user inputs are valid. I also learned how to display meaningful error messages when necessary.
 
 6. **Calculations and Output:** I applied conditional statements to perform calculations and generate output messages based on specific conditions.
+
+## About the Second Section - Complex Conditional Statements (Lesson 2)
+
+In the second section of this course, I advanced my understanding of conditional statements in C# by exploring more complex scenarios and tasks. Here's an overview of what I've covered:
+
+1. **Multi-Branch Logic:** I delved deeper into creating multi-branch logic using `if-else if-else` statements. This allowed me to handle a variety of conditions and outcomes within a single block of code.
+
+2. **Nested Conditional Statements:** Building upon the concepts from the first section, I practiced using nested conditional statements to handle intricate decision-making processes. This enabled me to address more complex tasks effectively.
+
+3. **String Comparison:** I learned how to compare strings using conditional statements, allowing me to take specific actions based on user input or string values.
+
+4. **Numeric Comparisons:** I expanded my knowledge of numeric comparisons and utilized them to implement various mathematical operations and calculations within my programs.
+
+5. **Advanced Validation:** I honed my skills in incorporating advanced validation checks to ensure that user inputs meet specific criteria, enhancing the robustness of my applications.
+
+6. **Enhanced Output:** I applied complex conditional logic to generate detailed and context-aware output messages, improving the user experience and clarity of program responses.
