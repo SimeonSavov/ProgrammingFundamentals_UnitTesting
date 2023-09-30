@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\01.MarketPlace\bin\Debug\net6.0\01.MarketPlace.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\01.MarketPlace\bin\Debug\net6.0\01.MarketPlace.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\01.MarketPlace\bin\Debug\net6.0\01.MarketPlace.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\01.MarketPlace\bin\Debug\net6.0\01.MarketPlace.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\01.MarketPlace\bin\Debug\net6.0\01.MarketPlace.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\01.MarketPlace\obj\Debug\net6.0\01.MarketPlace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\01.MarketPlace\obj\Debug\net6.0\01.MarketPlace.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\01.MarketPlace\obj\Debug\net6.0\01.MarketPlace.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\01.MarketPlace\obj\Debug\net6.0\01.MarketPlace.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\01.MarketPlace\obj\Debug\net6.0\01.MarketPlace.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\01.MarketPlace\obj\Debug\net6.0\refint\01.MarketPlace.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\01.MarketPlace\obj\Debug\net6.0\01.MarketPlace.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\01.MarketPlace\obj\Debug\net6.0\01.MarketPlace.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\01.MarketPlace\obj\Debug\net6.0\ref\01.MarketPlace.dll

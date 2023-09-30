@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "01.MarketPlace/1.0.0": {
+        "runtime": {
+          "01.MarketPlace.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01.MarketPlace/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
