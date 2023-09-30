@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\02.EvenOrOdd\bin\Debug\net6.0\02.EvenOrOdd.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\02.EvenOrOdd\bin\Debug\net6.0\02.EvenOrOdd.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\02.EvenOrOdd\bin\Debug\net6.0\02.EvenOrOdd.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\02.EvenOrOdd\bin\Debug\net6.0\02.EvenOrOdd.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\02.EvenOrOdd\bin\Debug\net6.0\02.EvenOrOdd.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\02.EvenOrOdd\obj\Debug\net6.0\02.EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\02.EvenOrOdd\obj\Debug\net6.0\02.EvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\02.EvenOrOdd\obj\Debug\net6.0\02.EvenOrOdd.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\02.EvenOrOdd\obj\Debug\net6.0\02.EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\02.EvenOrOdd\obj\Debug\net6.0\02.EvenOrOdd.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\02.EvenOrOdd\obj\Debug\net6.0\refint\02.EvenOrOdd.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\02.EvenOrOdd\obj\Debug\net6.0\02.EvenOrOdd.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\02.EvenOrOdd\obj\Debug\net6.0\02.EvenOrOdd.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\02.EvenOrOdd\obj\Debug\net6.0\ref\02.EvenOrOdd.dll
