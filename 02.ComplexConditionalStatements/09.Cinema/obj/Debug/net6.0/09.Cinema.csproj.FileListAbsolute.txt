@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\09.Cinema\bin\Debug\net6.0\09.Cinema.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\09.Cinema\bin\Debug\net6.0\09.Cinema.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\09.Cinema\bin\Debug\net6.0\09.Cinema.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\09.Cinema\bin\Debug\net6.0\09.Cinema.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\09.Cinema\bin\Debug\net6.0\09.Cinema.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\09.Cinema\obj\Debug\net6.0\09.Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\09.Cinema\obj\Debug\net6.0\09.Cinema.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\09.Cinema\obj\Debug\net6.0\09.Cinema.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\09.Cinema\obj\Debug\net6.0\09.Cinema.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\09.Cinema\obj\Debug\net6.0\09.Cinema.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\09.Cinema\obj\Debug\net6.0\refint\09.Cinema.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\09.Cinema\obj\Debug\net6.0\09.Cinema.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\09.Cinema\obj\Debug\net6.0\09.Cinema.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\09.Cinema\obj\Debug\net6.0\ref\09.Cinema.dll
