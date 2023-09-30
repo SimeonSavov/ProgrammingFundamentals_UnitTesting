@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\11.CoffeeShop\bin\Debug\net6.0\11.CoffeeShop.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\11.CoffeeShop\bin\Debug\net6.0\11.CoffeeShop.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\11.CoffeeShop\bin\Debug\net6.0\11.CoffeeShop.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\11.CoffeeShop\bin\Debug\net6.0\11.CoffeeShop.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\11.CoffeeShop\bin\Debug\net6.0\11.CoffeeShop.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\11.CoffeeShop\obj\Debug\net6.0\11.CoffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\11.CoffeeShop\obj\Debug\net6.0\11.CoffeeShop.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\11.CoffeeShop\obj\Debug\net6.0\11.CoffeeShop.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\11.CoffeeShop\obj\Debug\net6.0\11.CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\11.CoffeeShop\obj\Debug\net6.0\11.CoffeeShop.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\11.CoffeeShop\obj\Debug\net6.0\refint\11.CoffeeShop.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\11.CoffeeShop\obj\Debug\net6.0\11.CoffeeShop.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\11.CoffeeShop\obj\Debug\net6.0\11.CoffeeShop.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\11.CoffeeShop\obj\Debug\net6.0\ref\11.CoffeeShop.dll
