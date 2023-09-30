@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\09.SumSeconds\bin\Debug\net6.0\09.SumSeconds.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\09.SumSeconds\bin\Debug\net6.0\09.SumSeconds.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\09.SumSeconds\bin\Debug\net6.0\09.SumSeconds.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\09.SumSeconds\bin\Debug\net6.0\09.SumSeconds.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\09.SumSeconds\bin\Debug\net6.0\09.SumSeconds.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\09.SumSeconds\obj\Debug\net6.0\refint\09.SumSeconds.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\09.SumSeconds\obj\Debug\net6.0\ref\09.SumSeconds.dll
