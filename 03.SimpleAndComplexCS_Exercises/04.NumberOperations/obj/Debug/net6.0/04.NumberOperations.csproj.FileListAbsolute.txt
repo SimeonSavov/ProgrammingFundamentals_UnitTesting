@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\04.NumberOperations\bin\Debug\net6.0\04.NumberOperations.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\04.NumberOperations\bin\Debug\net6.0\04.NumberOperations.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\04.NumberOperations\bin\Debug\net6.0\04.NumberOperations.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\04.NumberOperations\bin\Debug\net6.0\04.NumberOperations.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\04.NumberOperations\bin\Debug\net6.0\04.NumberOperations.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\04.NumberOperations\obj\Debug\net6.0\04.NumberOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\04.NumberOperations\obj\Debug\net6.0\04.NumberOperations.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\04.NumberOperations\obj\Debug\net6.0\04.NumberOperations.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\04.NumberOperations\obj\Debug\net6.0\04.NumberOperations.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\04.NumberOperations\obj\Debug\net6.0\04.NumberOperations.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\04.NumberOperations\obj\Debug\net6.0\refint\04.NumberOperations.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\04.NumberOperations\obj\Debug\net6.0\04.NumberOperations.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\04.NumberOperations\obj\Debug\net6.0\04.NumberOperations.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\04.NumberOperations\obj\Debug\net6.0\ref\04.NumberOperations.dll
