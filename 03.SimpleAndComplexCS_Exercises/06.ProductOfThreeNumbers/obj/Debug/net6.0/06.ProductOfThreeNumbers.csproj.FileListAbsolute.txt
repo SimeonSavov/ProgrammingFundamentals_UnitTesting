@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\06.ProductOfThreeNumbers\bin\Debug\net6.0\06.ProductOfThreeNumbers.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\06.ProductOfThreeNumbers\bin\Debug\net6.0\06.ProductOfThreeNumbers.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\06.ProductOfThreeNumbers\bin\Debug\net6.0\06.ProductOfThreeNumbers.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\06.ProductOfThreeNumbers\bin\Debug\net6.0\06.ProductOfThreeNumbers.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\06.ProductOfThreeNumbers\bin\Debug\net6.0\06.ProductOfThreeNumbers.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\06.ProductOfThreeNumbers\obj\Debug\net6.0\06.ProductOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\06.ProductOfThreeNumbers\obj\Debug\net6.0\06.ProductOfThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\06.ProductOfThreeNumbers\obj\Debug\net6.0\06.ProductOfThreeNumbers.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\06.ProductOfThreeNumbers\obj\Debug\net6.0\06.ProductOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\06.ProductOfThreeNumbers\obj\Debug\net6.0\06.ProductOfThreeNumbers.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\06.ProductOfThreeNumbers\obj\Debug\net6.0\refint\06.ProductOfThreeNumbers.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\06.ProductOfThreeNumbers\obj\Debug\net6.0\06.ProductOfThreeNumbers.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\06.ProductOfThreeNumbers\obj\Debug\net6.0\06.ProductOfThreeNumbers.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\03.SimpleAndNestedCS-Exercises\06.ProductOfThreeNumbers\obj\Debug\net6.0\ref\06.ProductOfThreeNumbers.dll
