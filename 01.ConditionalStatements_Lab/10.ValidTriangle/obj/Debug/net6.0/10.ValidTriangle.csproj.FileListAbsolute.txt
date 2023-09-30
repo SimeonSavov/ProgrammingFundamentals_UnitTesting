@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\10.ValidTriangle\bin\Debug\net6.0\10.ValidTriangle.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\10.ValidTriangle\bin\Debug\net6.0\10.ValidTriangle.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\10.ValidTriangle\bin\Debug\net6.0\10.ValidTriangle.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\10.ValidTriangle\bin\Debug\net6.0\10.ValidTriangle.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\10.ValidTriangle\bin\Debug\net6.0\10.ValidTriangle.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\10.ValidTriangle\obj\Debug\net6.0\10.ValidTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\10.ValidTriangle\obj\Debug\net6.0\10.ValidTriangle.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\10.ValidTriangle\obj\Debug\net6.0\10.ValidTriangle.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\10.ValidTriangle\obj\Debug\net6.0\10.ValidTriangle.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\10.ValidTriangle\obj\Debug\net6.0\10.ValidTriangle.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\10.ValidTriangle\obj\Debug\net6.0\refint\10.ValidTriangle.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\10.ValidTriangle\obj\Debug\net6.0\10.ValidTriangle.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\10.ValidTriangle\obj\Debug\net6.0\10.ValidTriangle.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\10.ValidTriangle\obj\Debug\net6.0\ref\10.ValidTriangle.dll
