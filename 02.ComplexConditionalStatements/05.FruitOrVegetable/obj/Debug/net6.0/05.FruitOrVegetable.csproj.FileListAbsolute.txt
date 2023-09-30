@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\05.FruitOrVegetable\bin\Debug\net6.0\05.FruitOrVegetable.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\05.FruitOrVegetable\bin\Debug\net6.0\05.FruitOrVegetable.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\05.FruitOrVegetable\bin\Debug\net6.0\05.FruitOrVegetable.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\05.FruitOrVegetable\bin\Debug\net6.0\05.FruitOrVegetable.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\05.FruitOrVegetable\bin\Debug\net6.0\05.FruitOrVegetable.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\05.FruitOrVegetable\obj\Debug\net6.0\05.FruitOrVegetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\05.FruitOrVegetable\obj\Debug\net6.0\05.FruitOrVegetable.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\05.FruitOrVegetable\obj\Debug\net6.0\05.FruitOrVegetable.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\05.FruitOrVegetable\obj\Debug\net6.0\05.FruitOrVegetable.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\05.FruitOrVegetable\obj\Debug\net6.0\05.FruitOrVegetable.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\05.FruitOrVegetable\obj\Debug\net6.0\refint\05.FruitOrVegetable.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\05.FruitOrVegetable\obj\Debug\net6.0\05.FruitOrVegetable.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\05.FruitOrVegetable\obj\Debug\net6.0\05.FruitOrVegetable.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\05.FruitOrVegetable\obj\Debug\net6.0\ref\05.FruitOrVegetable.dll
