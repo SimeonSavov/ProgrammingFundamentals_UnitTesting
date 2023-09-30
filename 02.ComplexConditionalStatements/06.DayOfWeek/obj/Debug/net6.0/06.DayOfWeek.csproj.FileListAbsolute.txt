@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\06.DayOfWeek\obj\Debug\net6.0\refint\06.DayOfWeek.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\06.DayOfWeek\obj\Debug\net6.0\ref\06.DayOfWeek.dll
