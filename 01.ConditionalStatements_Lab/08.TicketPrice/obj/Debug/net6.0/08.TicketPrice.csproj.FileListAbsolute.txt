@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\08.TicketPrice\bin\Debug\net6.0\08.TicketPrice.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\08.TicketPrice\bin\Debug\net6.0\08.TicketPrice.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\08.TicketPrice\bin\Debug\net6.0\08.TicketPrice.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\08.TicketPrice\bin\Debug\net6.0\08.TicketPrice.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\08.TicketPrice\bin\Debug\net6.0\08.TicketPrice.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\08.TicketPrice\obj\Debug\net6.0\08.TicketPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\08.TicketPrice\obj\Debug\net6.0\08.TicketPrice.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\08.TicketPrice\obj\Debug\net6.0\08.TicketPrice.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\08.TicketPrice\obj\Debug\net6.0\08.TicketPrice.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\08.TicketPrice\obj\Debug\net6.0\08.TicketPrice.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\08.TicketPrice\obj\Debug\net6.0\refint\08.TicketPrice.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\08.TicketPrice\obj\Debug\net6.0\08.TicketPrice.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\08.TicketPrice\obj\Debug\net6.0\08.TicketPrice.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\08.TicketPrice\obj\Debug\net6.0\ref\08.TicketPrice.dll

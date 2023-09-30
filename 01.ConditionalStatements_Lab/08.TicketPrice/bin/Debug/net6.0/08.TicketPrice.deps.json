@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "08.TicketPrice/1.0.0": {
+        "runtime": {
+          "08.TicketPrice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "08.TicketPrice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
