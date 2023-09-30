@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\03.Number1To9AsWords\bin\Debug\net6.0\03.Number1To9AsWords.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\03.Number1To9AsWords\bin\Debug\net6.0\03.Number1To9AsWords.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\03.Number1To9AsWords\bin\Debug\net6.0\03.Number1To9AsWords.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\03.Number1To9AsWords\bin\Debug\net6.0\03.Number1To9AsWords.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\03.Number1To9AsWords\bin\Debug\net6.0\03.Number1To9AsWords.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\03.Number1To9AsWords\obj\Debug\net6.0\03.Number1To9AsWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\03.Number1To9AsWords\obj\Debug\net6.0\03.Number1To9AsWords.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\03.Number1To9AsWords\obj\Debug\net6.0\03.Number1To9AsWords.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\03.Number1To9AsWords\obj\Debug\net6.0\03.Number1To9AsWords.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\03.Number1To9AsWords\obj\Debug\net6.0\03.Number1To9AsWords.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\03.Number1To9AsWords\obj\Debug\net6.0\refint\03.Number1To9AsWords.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\03.Number1To9AsWords\obj\Debug\net6.0\03.Number1To9AsWords.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\03.Number1To9AsWords\obj\Debug\net6.0\03.Number1To9AsWords.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\03.Number1To9AsWords\obj\Debug\net6.0\ref\03.Number1To9AsWords.dll
