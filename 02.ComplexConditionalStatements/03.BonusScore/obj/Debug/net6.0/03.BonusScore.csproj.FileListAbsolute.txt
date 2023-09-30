@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\03.BonusScore\bin\Debug\net6.0\03.BonusScore.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\03.BonusScore\bin\Debug\net6.0\03.BonusScore.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\03.BonusScore\bin\Debug\net6.0\03.BonusScore.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\03.BonusScore\bin\Debug\net6.0\03.BonusScore.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\03.BonusScore\bin\Debug\net6.0\03.BonusScore.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\03.BonusScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\03.BonusScore.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\03.BonusScore.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\03.BonusScore.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\03.BonusScore.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\refint\03.BonusScore.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\03.BonusScore.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\03.BonusScore.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\ref\03.BonusScore.dll
