@@ -1,2 +1,2 @@
 # QA_Engineering
-Programming fundamentals &amp; Unit Testing with C#
+Programming Fundamentals &amp; Unit Testing with C#
