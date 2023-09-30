@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\07.SpeedInfo\bin\Debug\net6.0\07.SpeedInfo.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\07.SpeedInfo\bin\Debug\net6.0\07.SpeedInfo.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\07.SpeedInfo\bin\Debug\net6.0\07.SpeedInfo.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\07.SpeedInfo\bin\Debug\net6.0\07.SpeedInfo.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\07.SpeedInfo\bin\Debug\net6.0\07.SpeedInfo.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\07.SpeedInfo\obj\Debug\net6.0\07.SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\07.SpeedInfo\obj\Debug\net6.0\07.SpeedInfo.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\07.SpeedInfo\obj\Debug\net6.0\07.SpeedInfo.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\07.SpeedInfo\obj\Debug\net6.0\07.SpeedInfo.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\07.SpeedInfo\obj\Debug\net6.0\07.SpeedInfo.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\07.SpeedInfo\obj\Debug\net6.0\refint\07.SpeedInfo.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\07.SpeedInfo\obj\Debug\net6.0\07.SpeedInfo.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\07.SpeedInfo\obj\Debug\net6.0\07.SpeedInfo.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\01.Freezing Weather\07.SpeedInfo\obj\Debug\net6.0\ref\07.SpeedInfo.dll
