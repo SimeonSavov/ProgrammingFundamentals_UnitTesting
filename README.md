@@ -8,6 +8,7 @@ Welcome to my repository for the 'Programming Fundamentals and Unit Testing' cou
 - **ComplexConditionalStatements**:
 - **AdvancedConditonalStatemens**:
 - **ForLoops_Lab**:
+- **WhileLoop_Lab**:
 
 ## About the First Section - Conditional Statements (Lesson 1)
 
@@ -71,3 +72,16 @@ In the fourth section of this course, I delved into the powerful world of `for` 
 
 5. **Output Customization:** I used `for` loops to generate customized output messages, improving user experience by providing dynamic and context-sensitive responses.
 
+## About the Fifth Lesson - While Loops (Lesson 5)
+
+In the fifth lesson of this course, I explored the versatility of `while` loops in C# programming. Here's an overview of what I've covered:
+
+1. **Countdown with a While Loop:** I created a program that counts down from a user-provided integer using a `while` loop. The program continuously prompts the user for input and displays the countdown until reaching 1.
+
+2. **Validation Loop:** I developed a program that ensures user input falls within a specified range. It repeatedly prompts for input until a valid number within the range is provided.
+
+3. **Pattern-Based Number Generation:** I crafted a program that generates a sequence of numbers based on a specific pattern using a `while` loop. The user specifies an upper limit, and the program generates numbers following the pattern until reaching or exceeding the limit.
+
+4. **Sum of Digits:** I designed a program that calculates the sum of the digits of a positive integer. The program uses a `while` loop to iteratively extract and sum each digit.
+
+5. **Interactive Numeric Manipulation:** I created a program that allows users to manipulate a numeric value using custom commands ("Inc" and "Dec"). The program continues to process commands until the user inputs "End," at which point it displays the final manipulated value.
