@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\01.DecreasingNumbers\bin\Debug\net6.0\01.DecreasingNumbers.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\01.DecreasingNumbers\bin\Debug\net6.0\01.DecreasingNumbers.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\01.DecreasingNumbers\bin\Debug\net6.0\01.DecreasingNumbers.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\01.DecreasingNumbers\bin\Debug\net6.0\01.DecreasingNumbers.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\01.DecreasingNumbers\bin\Debug\net6.0\01.DecreasingNumbers.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\01.DecreasingNumbers\obj\Debug\net6.0\01.DecreasingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\01.DecreasingNumbers\obj\Debug\net6.0\01.DecreasingNumbers.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\01.DecreasingNumbers\obj\Debug\net6.0\01.DecreasingNumbers.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\01.DecreasingNumbers\obj\Debug\net6.0\01.DecreasingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\01.DecreasingNumbers\obj\Debug\net6.0\01.DecreasingNumbers.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\01.DecreasingNumbers\obj\Debug\net6.0\refint\01.DecreasingNumbers.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\01.DecreasingNumbers\obj\Debug\net6.0\01.DecreasingNumbers.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\01.DecreasingNumbers\obj\Debug\net6.0\01.DecreasingNumbers.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\01.DecreasingNumbers\obj\Debug\net6.0\ref\01.DecreasingNumbers.dll
