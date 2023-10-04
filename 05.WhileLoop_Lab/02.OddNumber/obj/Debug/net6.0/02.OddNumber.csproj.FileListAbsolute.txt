@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\02.OddNumber\obj\Debug\net6.0\02.OddNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\02.OddNumber\obj\Debug\net6.0\02.OddNumber.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\02.OddNumber\obj\Debug\net6.0\02.OddNumber.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\02.OddNumber\obj\Debug\net6.0\02.OddNumber.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\02.OddNumber\bin\Debug\net6.0\02.OddNumber.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\02.OddNumber\bin\Debug\net6.0\02.OddNumber.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\02.OddNumber\bin\Debug\net6.0\02.OddNumber.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\02.OddNumber\bin\Debug\net6.0\02.OddNumber.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\02.OddNumber\bin\Debug\net6.0\02.OddNumber.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\02.OddNumber\obj\Debug\net6.0\02.OddNumber.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\02.OddNumber\obj\Debug\net6.0\refint\02.OddNumber.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\02.OddNumber\obj\Debug\net6.0\02.OddNumber.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\02.OddNumber\obj\Debug\net6.0\02.OddNumber.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\02.OddNumber\obj\Debug\net6.0\ref\02.OddNumber.dll
