@@ -7,6 +7,7 @@ Welcome to my repository for the 'Programming Fundamentals and Unit Testing' cou
 - **ConditionalStatements_Lab**:
 - **ComplexConditionalStatements**:
 - **AdvancedConditonalStatemens**:
+- **ForLoops_Lab**:
 
 ## About the First Section - Conditional Statements (Lesson 1)
 
@@ -55,3 +56,18 @@ In the third section of this course, I further expanded my knowledge of conditio
 5. **Validation Strategies:** I explored advanced validation strategies, ensuring that my programs handle a wide range of user inputs gracefully and securely.
 
 6. **Enhanced User Experience:** I applied complex conditional logic to generate highly customized output messages, elevating the user experience and providing clear and context-sensitive program responses.
+
+## About the Fourth Section - For Loops (Lesson 4)
+
+In the fourth section of this course, I delved into the powerful world of `for` loops in C#. Here's an overview of what I've covered:
+
+1. **Number Range Iteration:** I learned how to use a `for` loop to iterate through a range of numbers effectively. This provided a foundation for various numerical applications.
+
+2. **Number Sum Calculation:** I developed programs to calculate the sum of numbers within specific ranges. This improved my understanding of arithmetic operations and loop structures.
+
+3. **Countdown Timers:** I created countdown timer programs, such as an exam countdown. These programs involved user input, enhancing my input handling skills.
+
+4. **Character Sequences:** I practiced generating and displaying character sequences within user-defined ranges. This improved my ability to work with character data.
+
+5. **Output Customization:** I used `for` loops to generate customized output messages, improving user experience by providing dynamic and context-sensitive responses.
+
