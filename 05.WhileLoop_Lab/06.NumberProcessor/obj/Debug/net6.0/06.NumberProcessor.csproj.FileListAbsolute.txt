@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\06.NumberProcessor\bin\Debug\net6.0\06.NumberProcessor.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\06.NumberProcessor\bin\Debug\net6.0\06.NumberProcessor.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\06.NumberProcessor\bin\Debug\net6.0\06.NumberProcessor.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\06.NumberProcessor\bin\Debug\net6.0\06.NumberProcessor.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\06.NumberProcessor\bin\Debug\net6.0\06.NumberProcessor.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\06.NumberProcessor\obj\Debug\net6.0\06.NumberProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\06.NumberProcessor\obj\Debug\net6.0\06.NumberProcessor.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\06.NumberProcessor\obj\Debug\net6.0\06.NumberProcessor.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\06.NumberProcessor\obj\Debug\net6.0\06.NumberProcessor.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\06.NumberProcessor\obj\Debug\net6.0\06.NumberProcessor.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\06.NumberProcessor\obj\Debug\net6.0\refint\06.NumberProcessor.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\06.NumberProcessor\obj\Debug\net6.0\06.NumberProcessor.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\06.NumberProcessor\obj\Debug\net6.0\06.NumberProcessor.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\06.NumberProcessor\obj\Debug\net6.0\ref\06.NumberProcessor.dll
