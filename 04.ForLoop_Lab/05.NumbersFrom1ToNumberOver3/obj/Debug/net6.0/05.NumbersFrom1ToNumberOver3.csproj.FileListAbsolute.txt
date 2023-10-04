@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\05.NumbersFrom1ToNumberOver3\bin\Debug\net6.0\05.NumbersFrom1ToNumberOver3.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\05.NumbersFrom1ToNumberOver3\bin\Debug\net6.0\05.NumbersFrom1ToNumberOver3.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\05.NumbersFrom1ToNumberOver3\bin\Debug\net6.0\05.NumbersFrom1ToNumberOver3.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\05.NumbersFrom1ToNumberOver3\bin\Debug\net6.0\05.NumbersFrom1ToNumberOver3.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\05.NumbersFrom1ToNumberOver3\bin\Debug\net6.0\05.NumbersFrom1ToNumberOver3.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\05.NumbersFrom1ToNumberOver3\obj\Debug\net6.0\05.NumbersFrom1ToNumberOver3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\05.NumbersFrom1ToNumberOver3\obj\Debug\net6.0\05.NumbersFrom1ToNumberOver3.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\05.NumbersFrom1ToNumberOver3\obj\Debug\net6.0\05.NumbersFrom1ToNumberOver3.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\05.NumbersFrom1ToNumberOver3\obj\Debug\net6.0\05.NumbersFrom1ToNumberOver3.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\05.NumbersFrom1ToNumberOver3\obj\Debug\net6.0\05.NumbersFrom1ToNumberOver3.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\05.NumbersFrom1ToNumberOver3\obj\Debug\net6.0\refint\05.NumbersFrom1ToNumberOver3.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\05.NumbersFrom1ToNumberOver3\obj\Debug\net6.0\05.NumbersFrom1ToNumberOver3.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\05.NumbersFrom1ToNumberOver3\obj\Debug\net6.0\05.NumbersFrom1ToNumberOver3.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\05.NumbersFrom1ToNumberOver3\obj\Debug\net6.0\ref\05.NumbersFrom1ToNumberOver3.dll
