@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\07.LatinLetters\bin\Debug\net6.0\07.LatinLetters.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\07.LatinLetters\bin\Debug\net6.0\07.LatinLetters.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\07.LatinLetters\bin\Debug\net6.0\07.LatinLetters.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\07.LatinLetters\bin\Debug\net6.0\07.LatinLetters.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\07.LatinLetters\bin\Debug\net6.0\07.LatinLetters.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\07.LatinLetters\obj\Debug\net6.0\07.LatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\07.LatinLetters\obj\Debug\net6.0\07.LatinLetters.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\07.LatinLetters\obj\Debug\net6.0\07.LatinLetters.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\07.LatinLetters\obj\Debug\net6.0\07.LatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\07.LatinLetters\obj\Debug\net6.0\07.LatinLetters.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\07.LatinLetters\obj\Debug\net6.0\refint\07.LatinLetters.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\07.LatinLetters\obj\Debug\net6.0\07.LatinLetters.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\07.LatinLetters\obj\Debug\net6.0\07.LatinLetters.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\07.LatinLetters\obj\Debug\net6.0\ref\07.LatinLetters.dll
