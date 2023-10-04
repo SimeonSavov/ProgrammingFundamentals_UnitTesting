@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\02.FirstNNumbersSum\bin\Debug\net6.0\02.FirstNNumbersSum.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\02.FirstNNumbersSum\bin\Debug\net6.0\02.FirstNNumbersSum.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\02.FirstNNumbersSum\bin\Debug\net6.0\02.FirstNNumbersSum.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\02.FirstNNumbersSum\bin\Debug\net6.0\02.FirstNNumbersSum.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\02.FirstNNumbersSum\bin\Debug\net6.0\02.FirstNNumbersSum.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\02.FirstNNumbersSum\obj\Debug\net6.0\02.FirstNNumbersSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\02.FirstNNumbersSum\obj\Debug\net6.0\02.FirstNNumbersSum.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\02.FirstNNumbersSum\obj\Debug\net6.0\02.FirstNNumbersSum.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\02.FirstNNumbersSum\obj\Debug\net6.0\02.FirstNNumbersSum.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\02.FirstNNumbersSum\obj\Debug\net6.0\02.FirstNNumbersSum.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\02.FirstNNumbersSum\obj\Debug\net6.0\refint\02.FirstNNumbersSum.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\02.FirstNNumbersSum\obj\Debug\net6.0\02.FirstNNumbersSum.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\02.FirstNNumbersSum\obj\Debug\net6.0\02.FirstNNumbersSum.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\02.FirstNNumbersSum\obj\Debug\net6.0\ref\02.FirstNNumbersSum.dll
