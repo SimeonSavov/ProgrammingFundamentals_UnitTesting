@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\03.SumNumbers\bin\Debug\net6.0\03.SumNumbers.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\03.SumNumbers\bin\Debug\net6.0\03.SumNumbers.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\03.SumNumbers\bin\Debug\net6.0\03.SumNumbers.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\03.SumNumbers\bin\Debug\net6.0\03.SumNumbers.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\03.SumNumbers\bin\Debug\net6.0\03.SumNumbers.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\03.SumNumbers\obj\Debug\net6.0\refint\03.SumNumbers.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\03.SumNumbers\obj\Debug\net6.0\ref\03.SumNumbers.dll
