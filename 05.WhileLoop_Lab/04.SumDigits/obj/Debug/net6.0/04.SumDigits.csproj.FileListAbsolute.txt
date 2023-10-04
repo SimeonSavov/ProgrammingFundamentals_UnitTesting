@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\04.SumDigits\bin\Debug\net6.0\04.SumDigits.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\04.SumDigits\bin\Debug\net6.0\04.SumDigits.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\04.SumDigits\bin\Debug\net6.0\04.SumDigits.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\04.SumDigits\bin\Debug\net6.0\04.SumDigits.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\04.SumDigits\bin\Debug\net6.0\04.SumDigits.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\04.SumDigits\obj\Debug\net6.0\04.SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\04.SumDigits\obj\Debug\net6.0\04.SumDigits.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\04.SumDigits\obj\Debug\net6.0\04.SumDigits.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\04.SumDigits\obj\Debug\net6.0\04.SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\04.SumDigits\obj\Debug\net6.0\04.SumDigits.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\04.SumDigits\obj\Debug\net6.0\refint\04.SumDigits.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\04.SumDigits\obj\Debug\net6.0\04.SumDigits.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\04.SumDigits\obj\Debug\net6.0\04.SumDigits.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\05.WhileLoop-Lab\04.SumDigits\obj\Debug\net6.0\ref\04.SumDigits.dll
