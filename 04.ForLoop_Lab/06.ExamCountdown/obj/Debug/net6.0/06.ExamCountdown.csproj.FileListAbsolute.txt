@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\06.ExamCountdown\bin\Debug\net6.0\06.ExamCountdown.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\06.ExamCountdown\bin\Debug\net6.0\06.ExamCountdown.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\06.ExamCountdown\bin\Debug\net6.0\06.ExamCountdown.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\06.ExamCountdown\bin\Debug\net6.0\06.ExamCountdown.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\06.ExamCountdown\bin\Debug\net6.0\06.ExamCountdown.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\06.ExamCountdown\obj\Debug\net6.0\06.ExamCountdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\06.ExamCountdown\obj\Debug\net6.0\06.ExamCountdown.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\06.ExamCountdown\obj\Debug\net6.0\06.ExamCountdown.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\06.ExamCountdown\obj\Debug\net6.0\06.ExamCountdown.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\06.ExamCountdown\obj\Debug\net6.0\06.ExamCountdown.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\06.ExamCountdown\obj\Debug\net6.0\refint\06.ExamCountdown.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\06.ExamCountdown\obj\Debug\net6.0\06.ExamCountdown.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\06.ExamCountdown\obj\Debug\net6.0\06.ExamCountdown.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\06.ExamCountdown\obj\Debug\net6.0\ref\06.ExamCountdown.dll
