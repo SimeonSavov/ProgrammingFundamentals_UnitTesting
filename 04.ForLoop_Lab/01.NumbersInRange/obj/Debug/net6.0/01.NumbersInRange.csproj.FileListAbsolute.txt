@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\01.NumbersInRange\bin\Debug\net6.0\01.NumbersInRange.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\01.NumbersInRange\bin\Debug\net6.0\01.NumbersInRange.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\01.NumbersInRange\bin\Debug\net6.0\01.NumbersInRange.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\01.NumbersInRange\bin\Debug\net6.0\01.NumbersInRange.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\01.NumbersInRange\bin\Debug\net6.0\01.NumbersInRange.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\01.NumbersInRange\obj\Debug\net6.0\01.NumbersInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\01.NumbersInRange\obj\Debug\net6.0\01.NumbersInRange.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\01.NumbersInRange\obj\Debug\net6.0\01.NumbersInRange.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\01.NumbersInRange\obj\Debug\net6.0\01.NumbersInRange.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\01.NumbersInRange\obj\Debug\net6.0\01.NumbersInRange.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\01.NumbersInRange\obj\Debug\net6.0\refint\01.NumbersInRange.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\01.NumbersInRange\obj\Debug\net6.0\01.NumbersInRange.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\01.NumbersInRange\obj\Debug\net6.0\01.NumbersInRange.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\04.ForLoop-Lab\01.NumbersInRange\obj\Debug\net6.0\ref\01.NumbersInRange.dll
