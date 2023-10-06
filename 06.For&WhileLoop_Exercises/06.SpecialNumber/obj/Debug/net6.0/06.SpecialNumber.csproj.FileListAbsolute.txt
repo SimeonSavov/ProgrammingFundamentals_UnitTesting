@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\06.SpecialNumber\bin\Debug\net6.0\06.SpecialNumber.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\06.SpecialNumber\bin\Debug\net6.0\06.SpecialNumber.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\06.SpecialNumber\bin\Debug\net6.0\06.SpecialNumber.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\06.SpecialNumber\bin\Debug\net6.0\06.SpecialNumber.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\06.SpecialNumber\bin\Debug\net6.0\06.SpecialNumber.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\06.SpecialNumber\obj\Debug\net6.0\06.SpecialNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\06.SpecialNumber\obj\Debug\net6.0\06.SpecialNumber.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\06.SpecialNumber\obj\Debug\net6.0\06.SpecialNumber.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\06.SpecialNumber\obj\Debug\net6.0\06.SpecialNumber.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\06.SpecialNumber\obj\Debug\net6.0\06.SpecialNumber.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\06.SpecialNumber\obj\Debug\net6.0\refint\06.SpecialNumber.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\06.SpecialNumber\obj\Debug\net6.0\06.SpecialNumber.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\06.SpecialNumber\obj\Debug\net6.0\06.SpecialNumber.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\06.SpecialNumber\obj\Debug\net6.0\ref\06.SpecialNumber.dll
