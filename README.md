@@ -85,3 +85,29 @@ In the fifth lesson of this course, I explored the versatility of `while` loops 
 4. **Sum of Digits:** I designed a program that calculates the sum of the digits of a positive integer. The program uses a `while` loop to iteratively extract and sum each digit.
 
 5. **Interactive Numeric Manipulation:** I created a program that allows users to manipulate a numeric value using custom commands ("Inc" and "Dec"). The program continues to process commands until the user inputs "End," at which point it displays the final manipulated value.
+
+## About the Sixth Lesson - For and While Loops (Lesson 6)
+
+In the sixth lesson of this course, we explored the capabilities of both `for` and `while` loops in C# programming. This lesson allowed us to gain a deeper understanding of iterative control structures. Below is a summary of the tasks we completed and the key concepts we've learned:
+
+1. **Power Calculation with a For Loop:** We used a `for` loop to calculate the result of raising a given number to a certain power. Users provided the base number and exponent, and the program computed and displayed the result. This task emphasized the repetitive nature of `for` loops for mathematical computations.
+
+2. **Multiplication Table with a For Loop:** We utilized a `for` loop to generate a multiplication table for a user-provided number from 1 to 10. The program calculated and displayed the products for each factor in the table. This task illustrated how `for` loops can efficiently handle repetitive patterns.
+
+3. **Percentage Calculation with a For Loop:** We employed a `for` loop to calculate the percentage of numbers divisible by 2, 3, and 4 within a set of user-input numbers. The program computed and displayed the percentages for each divisibility criterion, highlighting the utility of `for` loops in data analysis.
+
+4. **Checking Special Numbers with a While Loop:** We used a `while` loop to check if a user-input number is "special," meaning it is divisible by all of its individual digits. The task demonstrated the flexibility of `while` loops in handling iterative processes that may not have a fixed number of iterations.
+
+5. **Price Increase on Stop Number with a While Loop:** We employed a `while` loop to continuously read numbers from the user until a specified stop number was encountered. Once the stop number was found, the program calculated and displayed a 20% price increase over the previous number. This task highlighted the interactive and dynamic nature of `while` loops.
+
+### Key Concepts Learned:
+
+- **For Loops:** We learned that `for` loops are particularly useful for situations where the number of iterations is known in advance, such as iterating over a range of numbers or performing a fixed number of operations.
+
+- **While Loops:** We discovered that `while` loops are versatile for scenarios where the number of iterations may vary based on user input or dynamic conditions. They allow for interactive and adaptive control flow.
+
+- **Mathematical Computations:** We applied loops for mathematical calculations, including exponentiation, multiplication tables, and percentage calculations.
+
+- **Data Analysis:** We used loops to analyze data by counting and calculating percentages based on specific criteria.
+
+These tasks collectively provided a solid foundation in using `for` and `while` loops for a wide range of programming challenges.
