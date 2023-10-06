@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\08.AccountBalance\bin\Debug\net6.0\08.AccountBalance.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\08.AccountBalance\bin\Debug\net6.0\08.AccountBalance.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\08.AccountBalance\bin\Debug\net6.0\08.AccountBalance.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\08.AccountBalance\bin\Debug\net6.0\08.AccountBalance.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\08.AccountBalance\bin\Debug\net6.0\08.AccountBalance.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\08.AccountBalance\obj\Debug\net6.0\08.AccountBalance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\08.AccountBalance\obj\Debug\net6.0\08.AccountBalance.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\08.AccountBalance\obj\Debug\net6.0\08.AccountBalance.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\08.AccountBalance\obj\Debug\net6.0\08.AccountBalance.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\08.AccountBalance\obj\Debug\net6.0\08.AccountBalance.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\08.AccountBalance\obj\Debug\net6.0\refint\08.AccountBalance.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\08.AccountBalance\obj\Debug\net6.0\08.AccountBalance.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\08.AccountBalance\obj\Debug\net6.0\08.AccountBalance.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\08.AccountBalance\obj\Debug\net6.0\ref\08.AccountBalance.dll
