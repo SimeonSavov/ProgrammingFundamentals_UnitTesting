@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\03.BiggestNumber\bin\Debug\net6.0\03.BiggestNumber.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\03.BiggestNumber\bin\Debug\net6.0\03.BiggestNumber.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\03.BiggestNumber\bin\Debug\net6.0\03.BiggestNumber.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\03.BiggestNumber\bin\Debug\net6.0\03.BiggestNumber.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\03.BiggestNumber\bin\Debug\net6.0\03.BiggestNumber.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\03.BiggestNumber\obj\Debug\net6.0\03.BiggestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\03.BiggestNumber\obj\Debug\net6.0\03.BiggestNumber.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\03.BiggestNumber\obj\Debug\net6.0\03.BiggestNumber.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\03.BiggestNumber\obj\Debug\net6.0\03.BiggestNumber.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\03.BiggestNumber\obj\Debug\net6.0\03.BiggestNumber.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\03.BiggestNumber\obj\Debug\net6.0\refint\03.BiggestNumber.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\03.BiggestNumber\obj\Debug\net6.0\03.BiggestNumber.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\03.BiggestNumber\obj\Debug\net6.0\03.BiggestNumber.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\03.BiggestNumber\obj\Debug\net6.0\ref\03.BiggestNumber.dll
