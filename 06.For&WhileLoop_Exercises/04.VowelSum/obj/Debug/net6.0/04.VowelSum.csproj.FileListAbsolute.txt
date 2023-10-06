@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\04.VowelSum\bin\Debug\net6.0\04.VowelSum.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\04.VowelSum\bin\Debug\net6.0\04.VowelSum.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\04.VowelSum\bin\Debug\net6.0\04.VowelSum.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\04.VowelSum\bin\Debug\net6.0\04.VowelSum.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\04.VowelSum\bin\Debug\net6.0\04.VowelSum.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\04.VowelSum\obj\Debug\net6.0\04.VowelSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\04.VowelSum\obj\Debug\net6.0\04.VowelSum.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\04.VowelSum\obj\Debug\net6.0\04.VowelSum.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\04.VowelSum\obj\Debug\net6.0\04.VowelSum.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\04.VowelSum\obj\Debug\net6.0\04.VowelSum.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\04.VowelSum\obj\Debug\net6.0\refint\04.VowelSum.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\04.VowelSum\obj\Debug\net6.0\04.VowelSum.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\04.VowelSum\obj\Debug\net6.0\04.VowelSum.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\04.VowelSum\obj\Debug\net6.0\ref\04.VowelSum.dll
