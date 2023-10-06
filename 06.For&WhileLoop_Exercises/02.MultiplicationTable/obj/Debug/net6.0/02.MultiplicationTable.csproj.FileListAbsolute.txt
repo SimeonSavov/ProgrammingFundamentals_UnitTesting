@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\02.MultiplicationTable\obj\Debug\net6.0\refint\02.MultiplicationTable.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\02.MultiplicationTable\obj\Debug\net6.0\ref\02.MultiplicationTable.dll
