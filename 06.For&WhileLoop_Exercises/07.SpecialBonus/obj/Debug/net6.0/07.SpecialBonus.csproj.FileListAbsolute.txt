@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\07.SpecialBonus\bin\Debug\net6.0\07.SpecialBonus.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\07.SpecialBonus\bin\Debug\net6.0\07.SpecialBonus.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\07.SpecialBonus\bin\Debug\net6.0\07.SpecialBonus.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\07.SpecialBonus\bin\Debug\net6.0\07.SpecialBonus.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\07.SpecialBonus\bin\Debug\net6.0\07.SpecialBonus.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\07.SpecialBonus\obj\Debug\net6.0\07.SpecialBonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\07.SpecialBonus\obj\Debug\net6.0\07.SpecialBonus.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\07.SpecialBonus\obj\Debug\net6.0\07.SpecialBonus.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\07.SpecialBonus\obj\Debug\net6.0\07.SpecialBonus.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\07.SpecialBonus\obj\Debug\net6.0\07.SpecialBonus.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\07.SpecialBonus\obj\Debug\net6.0\refint\07.SpecialBonus.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\07.SpecialBonus\obj\Debug\net6.0\07.SpecialBonus.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\07.SpecialBonus\obj\Debug\net6.0\07.SpecialBonus.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\06.For&WhileLoops_Exercises\07.SpecialBonus\obj\Debug\net6.0\ref\07.SpecialBonus.dll
