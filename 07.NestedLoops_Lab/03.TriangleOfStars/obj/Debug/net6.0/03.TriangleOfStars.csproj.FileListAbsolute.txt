@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\03.TriangleOfStars\bin\Debug\net6.0\03.TriangleOfStars.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\03.TriangleOfStars\bin\Debug\net6.0\03.TriangleOfStars.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\03.TriangleOfStars\bin\Debug\net6.0\03.TriangleOfStars.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\03.TriangleOfStars\bin\Debug\net6.0\03.TriangleOfStars.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\03.TriangleOfStars\bin\Debug\net6.0\03.TriangleOfStars.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\03.TriangleOfStars\obj\Debug\net6.0\03.TriangleOfStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\03.TriangleOfStars\obj\Debug\net6.0\03.TriangleOfStars.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\03.TriangleOfStars\obj\Debug\net6.0\03.TriangleOfStars.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\03.TriangleOfStars\obj\Debug\net6.0\03.TriangleOfStars.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\03.TriangleOfStars\obj\Debug\net6.0\03.TriangleOfStars.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\03.TriangleOfStars\obj\Debug\net6.0\refint\03.TriangleOfStars.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\03.TriangleOfStars\obj\Debug\net6.0\03.TriangleOfStars.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\03.TriangleOfStars\obj\Debug\net6.0\03.TriangleOfStars.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\03.TriangleOfStars\obj\Debug\net6.0\ref\03.TriangleOfStars.dll
