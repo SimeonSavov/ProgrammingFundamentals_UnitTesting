@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\06.TravelSavings\bin\Debug\net6.0\06.TravelSavings.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\06.TravelSavings\bin\Debug\net6.0\06.TravelSavings.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\06.TravelSavings\bin\Debug\net6.0\06.TravelSavings.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\06.TravelSavings\bin\Debug\net6.0\06.TravelSavings.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\06.TravelSavings\bin\Debug\net6.0\06.TravelSavings.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\06.TravelSavings\obj\Debug\net6.0\06.TravelSavings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\06.TravelSavings\obj\Debug\net6.0\06.TravelSavings.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\06.TravelSavings\obj\Debug\net6.0\06.TravelSavings.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\06.TravelSavings\obj\Debug\net6.0\06.TravelSavings.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\06.TravelSavings\obj\Debug\net6.0\06.TravelSavings.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\06.TravelSavings\obj\Debug\net6.0\refint\06.TravelSavings.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\06.TravelSavings\obj\Debug\net6.0\06.TravelSavings.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\06.TravelSavings\obj\Debug\net6.0\06.TravelSavings.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\06.TravelSavings\obj\Debug\net6.0\ref\06.TravelSavings.dll
