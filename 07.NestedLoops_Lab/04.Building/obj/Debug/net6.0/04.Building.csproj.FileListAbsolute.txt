@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\04.Building\bin\Debug\net6.0\04.Building.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\04.Building\bin\Debug\net6.0\04.Building.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\04.Building\bin\Debug\net6.0\04.Building.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\04.Building\bin\Debug\net6.0\04.Building.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\04.Building\bin\Debug\net6.0\04.Building.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\04.Building\obj\Debug\net6.0\04.Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\04.Building\obj\Debug\net6.0\04.Building.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\04.Building\obj\Debug\net6.0\04.Building.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\04.Building\obj\Debug\net6.0\04.Building.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\04.Building\obj\Debug\net6.0\04.Building.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\04.Building\obj\Debug\net6.0\refint\04.Building.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\04.Building\obj\Debug\net6.0\04.Building.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\04.Building\obj\Debug\net6.0\04.Building.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\04.Building\obj\Debug\net6.0\ref\04.Building.dll
