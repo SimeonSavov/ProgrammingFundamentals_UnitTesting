@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\07.SumOfDigitsCalculator\bin\Debug\net6.0\07.SumOfDigitsCalculator.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\07.SumOfDigitsCalculator\bin\Debug\net6.0\07.SumOfDigitsCalculator.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\07.SumOfDigitsCalculator\bin\Debug\net6.0\07.SumOfDigitsCalculator.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\07.SumOfDigitsCalculator\bin\Debug\net6.0\07.SumOfDigitsCalculator.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\07.SumOfDigitsCalculator\bin\Debug\net6.0\07.SumOfDigitsCalculator.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\07.SumOfDigitsCalculator\obj\Debug\net6.0\07.SumOfDigitsCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\07.SumOfDigitsCalculator\obj\Debug\net6.0\07.SumOfDigitsCalculator.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\07.SumOfDigitsCalculator\obj\Debug\net6.0\07.SumOfDigitsCalculator.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\07.SumOfDigitsCalculator\obj\Debug\net6.0\07.SumOfDigitsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\07.SumOfDigitsCalculator\obj\Debug\net6.0\07.SumOfDigitsCalculator.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\07.SumOfDigitsCalculator\obj\Debug\net6.0\refint\07.SumOfDigitsCalculator.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\07.SumOfDigitsCalculator\obj\Debug\net6.0\07.SumOfDigitsCalculator.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\07.SumOfDigitsCalculator\obj\Debug\net6.0\07.SumOfDigitsCalculator.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\07.SumOfDigitsCalculator\obj\Debug\net6.0\ref\07.SumOfDigitsCalculator.dll
