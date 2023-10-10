@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\01.NumbersFromNTo1\bin\Debug\net6.0\01.NumbersFromNTo1.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\01.NumbersFromNTo1\bin\Debug\net6.0\01.NumbersFromNTo1.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\01.NumbersFromNTo1\bin\Debug\net6.0\01.NumbersFromNTo1.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\01.NumbersFromNTo1\bin\Debug\net6.0\01.NumbersFromNTo1.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\01.NumbersFromNTo1\bin\Debug\net6.0\01.NumbersFromNTo1.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\01.NumbersFromNTo1\obj\Debug\net6.0\01.NumbersFromNTo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\01.NumbersFromNTo1\obj\Debug\net6.0\01.NumbersFromNTo1.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\01.NumbersFromNTo1\obj\Debug\net6.0\01.NumbersFromNTo1.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\01.NumbersFromNTo1\obj\Debug\net6.0\01.NumbersFromNTo1.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\01.NumbersFromNTo1\obj\Debug\net6.0\01.NumbersFromNTo1.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\01.NumbersFromNTo1\obj\Debug\net6.0\refint\01.NumbersFromNTo1.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\01.NumbersFromNTo1\obj\Debug\net6.0\01.NumbersFromNTo1.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\01.NumbersFromNTo1\obj\Debug\net6.0\01.NumbersFromNTo1.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\07.NestedLoops_Lab\01.NumbersFromNTo1\obj\Debug\net6.0\ref\01.NumbersFromNTo1.dll
