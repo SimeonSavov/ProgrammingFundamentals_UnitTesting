@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\04.CalculateRectangleArea\obj\Debug\net6.0\refint\04.CalculateRectangleArea.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\04.CalculateRectangleArea\obj\Debug\net6.0\ref\04.CalculateRectangleArea.dll
