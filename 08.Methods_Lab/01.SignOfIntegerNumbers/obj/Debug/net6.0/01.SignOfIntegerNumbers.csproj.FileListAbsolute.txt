@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\01.SignOfIntegerNumbers\bin\Debug\net6.0\01.SignOfIntegerNumbers.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\01.SignOfIntegerNumbers\bin\Debug\net6.0\01.SignOfIntegerNumbers.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\01.SignOfIntegerNumbers\bin\Debug\net6.0\01.SignOfIntegerNumbers.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\01.SignOfIntegerNumbers\bin\Debug\net6.0\01.SignOfIntegerNumbers.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\01.SignOfIntegerNumbers\bin\Debug\net6.0\01.SignOfIntegerNumbers.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\refint\01.SignOfIntegerNumbers.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\ref\01.SignOfIntegerNumbers.dll
