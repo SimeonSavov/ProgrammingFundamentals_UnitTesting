@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\06.MathPower\bin\Debug\net6.0\06.MathPower.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\06.MathPower\bin\Debug\net6.0\06.MathPower.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\06.MathPower\bin\Debug\net6.0\06.MathPower.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\06.MathPower\bin\Debug\net6.0\06.MathPower.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\06.MathPower\bin\Debug\net6.0\06.MathPower.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\06.MathPower\obj\Debug\net6.0\06.MathPower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\06.MathPower\obj\Debug\net6.0\06.MathPower.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\06.MathPower\obj\Debug\net6.0\06.MathPower.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\06.MathPower\obj\Debug\net6.0\06.MathPower.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\06.MathPower\obj\Debug\net6.0\06.MathPower.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\06.MathPower\obj\Debug\net6.0\refint\06.MathPower.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\06.MathPower\obj\Debug\net6.0\06.MathPower.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\06.MathPower\obj\Debug\net6.0\06.MathPower.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\06.MathPower\obj\Debug\net6.0\ref\06.MathPower.dll
