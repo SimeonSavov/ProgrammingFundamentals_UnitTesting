@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\05.RepeatString\obj\Debug\net6.0\05.RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\05.RepeatString\obj\Debug\net6.0\05.RepeatString.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\05.RepeatString\obj\Debug\net6.0\05.RepeatString.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\05.RepeatString\obj\Debug\net6.0\05.RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\05.RepeatString\bin\Debug\net6.0\05.RepeatString.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\05.RepeatString\bin\Debug\net6.0\05.RepeatString.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\05.RepeatString\bin\Debug\net6.0\05.RepeatString.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\05.RepeatString\bin\Debug\net6.0\05.RepeatString.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\05.RepeatString\bin\Debug\net6.0\05.RepeatString.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\05.RepeatString\obj\Debug\net6.0\05.RepeatString.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\05.RepeatString\obj\Debug\net6.0\refint\05.RepeatString.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\05.RepeatString\obj\Debug\net6.0\05.RepeatString.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\05.RepeatString\obj\Debug\net6.0\05.RepeatString.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\05.RepeatString\obj\Debug\net6.0\ref\05.RepeatString.dll
