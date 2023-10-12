@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\03.PrintingTriangle\bin\Debug\net6.0\03.PrintingTriangle.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\03.PrintingTriangle\bin\Debug\net6.0\03.PrintingTriangle.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\03.PrintingTriangle\bin\Debug\net6.0\03.PrintingTriangle.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\03.PrintingTriangle\bin\Debug\net6.0\03.PrintingTriangle.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\03.PrintingTriangle\bin\Debug\net6.0\03.PrintingTriangle.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\03.PrintingTriangle\obj\Debug\net6.0\refint\03.PrintingTriangle.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\03.PrintingTriangle\obj\Debug\net6.0\ref\03.PrintingTriangle.dll
