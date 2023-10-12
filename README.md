@@ -4,12 +4,13 @@ Welcome to my repository for the 'Programming Fundamentals and Unit Testing' cou
 
 ## Folder Structure
 
-- **ConditionalStatements_Lab**:
-- **ComplexConditionalStatements**:
-- **AdvancedConditonalStatemens**:
-- **ForLoops_Lab**:
-- **WhileLoop_Lab**:
-- **NestedLoops_Lab**:
+- [ConditionalStatements_Lab](https://github.com/SimeonSavov/QA_Engineering#about-the-first-section---conditional-statements-lesson-1)
+- [ComplexConditionalStatements](https://github.com/SimeonSavov/QA_Engineering#about-the-second-section---complex-conditional-statements-lesson-2)
+- [AdvancedConditonalStatemens](https://github.com/SimeonSavov/QA_Engineering#about-the-third-section---advanced-conditional-statements-lesson-3)
+- [ForLoops_Lab](https://github.com/SimeonSavov/QA_Engineering#about-the-fourth-section---for-loops-lesson-4)
+- [WhileLoop_Lab](https://github.com/SimeonSavov/QA_Engineering#about-the-fifth-lesson---while-loops-lesson-5)
+- [NestedLoops_Lab](https://github.com/SimeonSavov/QA_Engineering#about-the-sixth-lesson---for-and-while-loops-lesson-6)
+- [Methods_Lab]()
 
 ## About the First Section - Conditional Statements (Lesson 1)
 
@@ -129,4 +130,28 @@ In the seventh lesson of this course, I explored nested loops in C# and gained v
 5. **Prime Number Identification:** By combining loops with conditional statements, I efficiently identified prime numbers within specified ranges, demonstrating the practicality of nested loops in number analysis.
 
 This lesson expanded my understanding of nested loops, enabling me to handle diverse programming challenges and create structured patterns with ease.
+
+## About the Ninth Lesson - Methods (Lesson 8)
+
+In the ninth lesson of this course, I explore the power of methods in C# programming, allowing me to streamline and simplify various calculations. Here's an overview of the key takeaways from the tasks:
+
+1.  **Sign of Numbers:** I develop a method, `PrintNumberSign`, which efficiently determines whether a number is positive, negative, or zero, and displays the result to the user. This method simplifies the process of evaluating number signs.
+    
+2.  **Grading in Words:** I create the `GradeInWords` method to translate numerical grades into descriptive terms such as "Fail," "Average," "Good," "Very good," and "Excellent." This method enhances user communication and provides clear grade interpretation.
+    
+3.  **Pattern Printing:** I introduce the `PrintTriangle` method to generate visually pleasing patterns using nested loops. This method facilitates the creation of symmetrical and structured output patterns.
+    
+4.  **Area Calculation:** I implement the `CalculateRectArea` method for the efficient calculation of the area of a rectangle. This method encapsulates the area calculation logic and improves code modularity.
+    
+5.  **String Repetition:** I develop the `RepeatString` method, which repetitively concatenates a string a specified number of times. This method simplifies string repetition tasks and ensures code clarity.
+    
+6.  **Exponentiation:** I utilize the `MathPower` method to efficiently calculate the result of raising a base number to a specified power. This method simplifies mathematical exponentiation and enhances code reusability.
+    
+7.  **Comparing Values:** I introduce methods like `FindGreaterNumber`, `FindGreaterChar`, and `FindGreaterString` to compare values of different data types (int, char, and string) and determine the greater one. These methods enhance my ability to compare and identify the largest value among different types.
+    
+8.  **Product Pricing:** I create the `CalculatePrice` method to determine the total price of a product based on its name and quantity. This method simplifies product pricing logic and promotes code organization.
+    
+9.  **Absolute Value and Multiplication:** In the final task, I introduce a method, `GetMultipleOfEvenAndOdds`, which calculates the product of the sums of even and odd digits in an integer. This method facilitates the calculation of products based on digit parity and absolute value.
+
+This lesson equips me with a versatile toolkit of methods to tackle various programming challenges, ensuring efficiency, organization, and clear communication in my code. 
 
