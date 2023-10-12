@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\08.MultiplyEvensByOdds\bin\Debug\net6.0\08.MultiplyEvensByOdds.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\08.MultiplyEvensByOdds\bin\Debug\net6.0\08.MultiplyEvensByOdds.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\08.MultiplyEvensByOdds\bin\Debug\net6.0\08.MultiplyEvensByOdds.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\08.MultiplyEvensByOdds\bin\Debug\net6.0\08.MultiplyEvensByOdds.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\08.MultiplyEvensByOdds\bin\Debug\net6.0\08.MultiplyEvensByOdds.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\08.MultiplyEvensByOdds\obj\Debug\net6.0\08.MultiplyEvensByOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\08.MultiplyEvensByOdds\obj\Debug\net6.0\08.MultiplyEvensByOdds.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\08.MultiplyEvensByOdds\obj\Debug\net6.0\08.MultiplyEvensByOdds.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\08.MultiplyEvensByOdds\obj\Debug\net6.0\08.MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\08.MultiplyEvensByOdds\obj\Debug\net6.0\08.MultiplyEvensByOdds.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\08.MultiplyEvensByOdds\obj\Debug\net6.0\refint\08.MultiplyEvensByOdds.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\08.MultiplyEvensByOdds\obj\Debug\net6.0\08.MultiplyEvensByOdds.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\08.MultiplyEvensByOdds\obj\Debug\net6.0\08.MultiplyEvensByOdds.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\08.Methods_Lab\08.MultiplyEvensByOdds\obj\Debug\net6.0\ref\08.MultiplyEvensByOdds.dll
