@@ -8,9 +8,10 @@ Welcome to my repository for the 'Programming Fundamentals and Unit Testing' cou
 - [ComplexConditionalStatements](https://github.com/SimeonSavov/QA_Engineering#about-the-second-section---complex-conditional-statements-lesson-2)
 - [AdvancedConditonalStatemens](https://github.com/SimeonSavov/QA_Engineering#about-the-third-section---advanced-conditional-statements-lesson-3)
 - [ForLoops_Lab](https://github.com/SimeonSavov/QA_Engineering#about-the-fourth-section---for-loops-lesson-4)
-- [WhileLoop_Lab](https://github.com/SimeonSavov/QA_Engineering#about-the-fifth-lesson---while-loops-lesson-5)
-- [NestedLoops_Lab](https://github.com/SimeonSavov/QA_Engineering#about-the-sixth-lesson---for-and-while-loops-lesson-6)
-- [Methods_Lab]()
+- [WhileLoop_Lab](https://github.com/SimeonSavov/QA_Engineering#about-the-fifth-section---while-loops-lesson-5)
+- [ForAndWhileLoops](https://github.com/SimeonSavov/QA_Engineering#about-the-sixth-section---for-and-while-loops-lesson-6)
+- [NestedLoops_Lab](https://github.com/SimeonSavov/QA_Engineering#about-the-seventh-section---nested-loops-lesson-7)
+- [Methods_Lab](https://github.com/SimeonSavov/QA_Engineering#about-the-eighth-section---methods-lesson-8)
 
 ## About the First Section - Conditional Statements (Lesson 1)
 
@@ -74,7 +75,7 @@ In the fourth section of this course, I delved into the powerful world of `for` 
 
 5. **Output Customization:** I used `for` loops to generate customized output messages, improving user experience by providing dynamic and context-sensitive responses.
 
-## About the Fifth Lesson - While Loops (Lesson 5)
+## About the Fifth Section - While Loops (Lesson 5)
 
 In the fifth lesson of this course, I explored the versatility of `while` loops in C# programming. Here's an overview of what I've covered:
 
@@ -88,7 +89,7 @@ In the fifth lesson of this course, I explored the versatility of `while` loops 
 
 5. **Interactive Numeric Manipulation:** I created a program that allows users to manipulate a numeric value using custom commands ("Inc" and "Dec"). The program continues to process commands until the user inputs "End," at which point it displays the final manipulated value.
 
-## About the Sixth Lesson - For and While Loops (Lesson 6)
+## About the Sixth Section - For and While Loops (Lesson 6)
 
 In the sixth lesson of this course, I explored the capabilities of both `for` and `while` loops in C# programming. This lesson allowed me to gain a deeper understanding of iterative control structures. Below is a summary of the tasks I completed and the key concepts I've learned:
 
@@ -115,7 +116,7 @@ In the sixth lesson of this course, I explored the capabilities of both `for` an
 These tasks collectively provided me with a solid foundation in using `for` and `while` loops for a wide range of programming challenges.
 
 
-## About the Seventh Lesson - Nested Loops (Lesson 7)
+## About the Seventh Section - Nested Loops (Lesson 7)
 
 In the seventh lesson of this course, I explored nested loops in C# and gained valuable insights into their practical applications. Here are the main takeaways:
 
@@ -131,7 +132,7 @@ In the seventh lesson of this course, I explored nested loops in C# and gained v
 
 This lesson expanded my understanding of nested loops, enabling me to handle diverse programming challenges and create structured patterns with ease.
 
-## About the Ninth Lesson - Methods (Lesson 8)
+## About the Eighth Section - Methods (Lesson 8)
 
 In the ninth lesson of this course, I explore the power of methods in C# programming, allowing me to streamline and simplify various calculations. Here's an overview of the key takeaways from the tasks:
 
