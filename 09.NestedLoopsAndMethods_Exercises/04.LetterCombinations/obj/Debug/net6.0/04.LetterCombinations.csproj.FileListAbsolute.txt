@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\04.LetterCombinations\bin\Debug\net6.0\04.LetterCombinations.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\04.LetterCombinations\bin\Debug\net6.0\04.LetterCombinations.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\04.LetterCombinations\bin\Debug\net6.0\04.LetterCombinations.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\04.LetterCombinations\bin\Debug\net6.0\04.LetterCombinations.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\04.LetterCombinations\bin\Debug\net6.0\04.LetterCombinations.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\04.LetterCombinations\obj\Debug\net6.0\04.LetterCombinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\04.LetterCombinations\obj\Debug\net6.0\04.LetterCombinations.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\04.LetterCombinations\obj\Debug\net6.0\04.LetterCombinations.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\04.LetterCombinations\obj\Debug\net6.0\04.LetterCombinations.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\04.LetterCombinations\obj\Debug\net6.0\04.LetterCombinations.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\04.LetterCombinations\obj\Debug\net6.0\refint\04.LetterCombinations.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\04.LetterCombinations\obj\Debug\net6.0\04.LetterCombinations.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\04.LetterCombinations\obj\Debug\net6.0\04.LetterCombinations.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\04.LetterCombinations\obj\Debug\net6.0\ref\04.LetterCombinations.dll
