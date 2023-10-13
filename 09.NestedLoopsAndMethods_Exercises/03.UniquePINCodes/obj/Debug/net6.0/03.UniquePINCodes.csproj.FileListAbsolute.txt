@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\03.UniquePINCodes\bin\Debug\net6.0\03.UniquePINCodes.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\03.UniquePINCodes\bin\Debug\net6.0\03.UniquePINCodes.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\03.UniquePINCodes\bin\Debug\net6.0\03.UniquePINCodes.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\03.UniquePINCodes\bin\Debug\net6.0\03.UniquePINCodes.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\03.UniquePINCodes\bin\Debug\net6.0\03.UniquePINCodes.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\03.UniquePINCodes\obj\Debug\net6.0\03.UniquePINCodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\03.UniquePINCodes\obj\Debug\net6.0\03.UniquePINCodes.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\03.UniquePINCodes\obj\Debug\net6.0\03.UniquePINCodes.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\03.UniquePINCodes\obj\Debug\net6.0\03.UniquePINCodes.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\03.UniquePINCodes\obj\Debug\net6.0\03.UniquePINCodes.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\03.UniquePINCodes\obj\Debug\net6.0\refint\03.UniquePINCodes.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\03.UniquePINCodes\obj\Debug\net6.0\03.UniquePINCodes.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\03.UniquePINCodes\obj\Debug\net6.0\03.UniquePINCodes.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\03.UniquePINCodes\obj\Debug\net6.0\ref\03.UniquePINCodes.dll
