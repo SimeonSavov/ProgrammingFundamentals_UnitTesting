@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\02.MagicNumbers\bin\Debug\net6.0\02.MagicNumbers.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\02.MagicNumbers\bin\Debug\net6.0\02.MagicNumbers.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\02.MagicNumbers\bin\Debug\net6.0\02.MagicNumbers.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\02.MagicNumbers\bin\Debug\net6.0\02.MagicNumbers.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\02.MagicNumbers\bin\Debug\net6.0\02.MagicNumbers.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\02.MagicNumbers\obj\Debug\net6.0\02.MagicNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\02.MagicNumbers\obj\Debug\net6.0\02.MagicNumbers.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\02.MagicNumbers\obj\Debug\net6.0\02.MagicNumbers.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\02.MagicNumbers\obj\Debug\net6.0\02.MagicNumbers.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\02.MagicNumbers\obj\Debug\net6.0\02.MagicNumbers.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\02.MagicNumbers\obj\Debug\net6.0\refint\02.MagicNumbers.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\02.MagicNumbers\obj\Debug\net6.0\02.MagicNumbers.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\02.MagicNumbers\obj\Debug\net6.0\02.MagicNumbers.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\02.MagicNumbers\obj\Debug\net6.0\ref\02.MagicNumbers.dll
