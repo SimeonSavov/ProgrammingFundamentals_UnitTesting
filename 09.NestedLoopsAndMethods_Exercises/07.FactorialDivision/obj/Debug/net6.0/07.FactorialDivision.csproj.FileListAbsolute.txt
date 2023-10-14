@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\07.FactorialDivision\bin\Debug\net6.0\07.FactorialDivision.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\07.FactorialDivision\bin\Debug\net6.0\07.FactorialDivision.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\07.FactorialDivision\bin\Debug\net6.0\07.FactorialDivision.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\07.FactorialDivision\bin\Debug\net6.0\07.FactorialDivision.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\07.FactorialDivision\bin\Debug\net6.0\07.FactorialDivision.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\07.FactorialDivision\obj\Debug\net6.0\07.FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\07.FactorialDivision\obj\Debug\net6.0\07.FactorialDivision.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\07.FactorialDivision\obj\Debug\net6.0\07.FactorialDivision.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\07.FactorialDivision\obj\Debug\net6.0\07.FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\07.FactorialDivision\obj\Debug\net6.0\07.FactorialDivision.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\07.FactorialDivision\obj\Debug\net6.0\refint\07.FactorialDivision.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\07.FactorialDivision\obj\Debug\net6.0\07.FactorialDivision.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\07.FactorialDivision\obj\Debug\net6.0\07.FactorialDivision.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\09.NestedLoopsAndMethods_Exercises\07.FactorialDivision\obj\Debug\net6.0\ref\07.FactorialDivision.dll
