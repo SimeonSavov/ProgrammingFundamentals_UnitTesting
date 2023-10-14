@@ -12,7 +12,7 @@ Welcome to my repository for the 'Programming Fundamentals and Unit Testing' cou
 - [ForAndWhileLoops](https://github.com/SimeonSavov/QA_Engineering#about-the-sixth-section---for-and-while-loops-lesson-6)
 - [NestedLoops_Lab](https://github.com/SimeonSavov/QA_Engineering#about-the-seventh-section---nested-loops-lesson-7)
 - [Methods_Lab](https://github.com/SimeonSavov/QA_Engineering#about-the-eighth-section---methods-lesson-8)
-- [NestedLoopsAndMethods_Exercises](https://github.com/SimeonSavov/QA_Engineering/blob/main/README.md#about-the-ninth-section---nested-loops-and-methods-lesson-9)
+- [NestedLoopsAndMethods_Exercises](https://github.com/SimeonSavov/QA_Engineering#about-the-ninth-section---nested-loops-and-methods-lesson-9)
 
 ## About the First Section - Conditional Statements (Lesson 1)
 
