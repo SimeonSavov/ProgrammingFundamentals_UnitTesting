@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\03.ReverseAnArray\bin\Debug\net6.0\03.ReverseAnArray.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\03.ReverseAnArray\bin\Debug\net6.0\03.ReverseAnArray.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\03.ReverseAnArray\bin\Debug\net6.0\03.ReverseAnArray.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\03.ReverseAnArray\bin\Debug\net6.0\03.ReverseAnArray.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\03.ReverseAnArray\bin\Debug\net6.0\03.ReverseAnArray.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\03.ReverseAnArray\obj\Debug\net6.0\03.ReverseAnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\03.ReverseAnArray\obj\Debug\net6.0\03.ReverseAnArray.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\03.ReverseAnArray\obj\Debug\net6.0\03.ReverseAnArray.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\03.ReverseAnArray\obj\Debug\net6.0\03.ReverseAnArray.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\03.ReverseAnArray\obj\Debug\net6.0\03.ReverseAnArray.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\03.ReverseAnArray\obj\Debug\net6.0\refint\03.ReverseAnArray.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\03.ReverseAnArray\obj\Debug\net6.0\03.ReverseAnArray.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\03.ReverseAnArray\obj\Debug\net6.0\03.ReverseAnArray.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\03.ReverseAnArray\obj\Debug\net6.0\ref\03.ReverseAnArray.dll
