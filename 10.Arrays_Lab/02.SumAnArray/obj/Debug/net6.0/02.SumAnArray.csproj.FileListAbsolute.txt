@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\02.SumAnArray\bin\Debug\net6.0\02.SumAnArray.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\02.SumAnArray\bin\Debug\net6.0\02.SumAnArray.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\02.SumAnArray\bin\Debug\net6.0\02.SumAnArray.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\02.SumAnArray\bin\Debug\net6.0\02.SumAnArray.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\02.SumAnArray\bin\Debug\net6.0\02.SumAnArray.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\02.SumAnArray\obj\Debug\net6.0\02.SumAnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\02.SumAnArray\obj\Debug\net6.0\02.SumAnArray.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\02.SumAnArray\obj\Debug\net6.0\02.SumAnArray.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\02.SumAnArray\obj\Debug\net6.0\02.SumAnArray.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\02.SumAnArray\obj\Debug\net6.0\02.SumAnArray.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\02.SumAnArray\obj\Debug\net6.0\refint\02.SumAnArray.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\02.SumAnArray\obj\Debug\net6.0\02.SumAnArray.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\02.SumAnArray\obj\Debug\net6.0\02.SumAnArray.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\02.SumAnArray\obj\Debug\net6.0\ref\02.SumAnArray.dll
