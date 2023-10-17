@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\06.CommonElements\bin\Debug\net6.0\06.CommonElements.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\06.CommonElements\bin\Debug\net6.0\06.CommonElements.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\06.CommonElements\bin\Debug\net6.0\06.CommonElements.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\06.CommonElements\bin\Debug\net6.0\06.CommonElements.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\06.CommonElements\bin\Debug\net6.0\06.CommonElements.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\06.CommonElements\obj\Debug\net6.0\06.CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\06.CommonElements\obj\Debug\net6.0\06.CommonElements.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\06.CommonElements\obj\Debug\net6.0\06.CommonElements.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\06.CommonElements\obj\Debug\net6.0\06.CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\06.CommonElements\obj\Debug\net6.0\06.CommonElements.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\06.CommonElements\obj\Debug\net6.0\refint\06.CommonElements.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\06.CommonElements\obj\Debug\net6.0\06.CommonElements.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\06.CommonElements\obj\Debug\net6.0\06.CommonElements.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\06.CommonElements\obj\Debug\net6.0\ref\06.CommonElements.dll
