@@ -13,6 +13,7 @@ Welcome to my repository for the 'Programming Fundamentals and Unit Testing' cou
 - [NestedLoops_Lab](https://github.com/SimeonSavov/QA_Engineering#about-the-seventh-section---nested-loops-lesson-7)
 - [Methods_Lab](https://github.com/SimeonSavov/QA_Engineering#about-the-eighth-section---methods-lesson-8)
 - [NestedLoopsAndMethods_Exercises](https://github.com/SimeonSavov/QA_Engineering#about-the-ninth-section---nested-loops-and-methods-lesson-9)
+- [Arrays_Lab](https://github.com/SimeonSavov/QA_Engineering/edit/main/README.md#about-the-tenth-section---arrays-lesson-10)
 
 ## About the First Section - Conditional Statements (Lesson 1)
 
@@ -180,4 +181,22 @@ In the ninth lesson of this course, I dive into the realm of nested loops and me
 9. **Password Validation:** I construct a password validation system with custom methods to assess password length, content, and digit count, emphasizing my capability to design and implement robust methods.
 
 This lesson combines the power of nested loops and custom methods, empowering me to tackle diverse programming challenges, from pattern generation to advanced problem-solving and validation tasks. My skills are now well-rounded and ready for more complex coding endeavors.
+
+## About the Tenth Section - Arrays (Lesson 10)
+
+In the tenth lesson of this course, I venture into the world of arrays in C# programming, where I acquire skills to work with collections of data efficiently. Here are the key takeaways from the provided exercises:
+
+1. **Day of the Week:** I begin by creating a simple array to associate numbers with days of the week, allowing me to quickly look up and display the corresponding day for a given number.
+
+2. **Array Sum:** I dive into basic array operations, learning how to sum up the elements of an array and gain a better grasp of working with data collections.
+
+3. **Reverse Array:** I explore array manipulation by reversing an array's elements, deepening my understanding of array indexing and data reordering.
+
+4. **Odd and Even Sums:** I tackle the task of finding the difference between the sums of even and odd numbers within an array, honing my skills in conditional statements and arithmetic operations.
+
+5. **Identical Arrays:** I practice array comparison, determining if two arrays contain the same elements in the same order, showcasing my ability to work with and compare data collections.
+
+6. **Common Elements:** I take on the challenge of finding common elements between two arrays, emphasizing my skills in array intersection and efficient data processing.
+
+With this lesson, I've equipped myself with the fundamental knowledge and techniques to effectively work with arrays, a crucial data structure in programming, laying the foundation for more advanced data manipulation and processing tasks.
 
