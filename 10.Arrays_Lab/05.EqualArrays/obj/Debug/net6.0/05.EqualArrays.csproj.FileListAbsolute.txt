@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\05.EqualArrays\bin\Debug\net6.0\05.EqualArrays.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\05.EqualArrays\bin\Debug\net6.0\05.EqualArrays.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\05.EqualArrays\bin\Debug\net6.0\05.EqualArrays.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\05.EqualArrays\bin\Debug\net6.0\05.EqualArrays.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\05.EqualArrays\bin\Debug\net6.0\05.EqualArrays.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\05.EqualArrays\obj\Debug\net6.0\05.EqualArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\05.EqualArrays\obj\Debug\net6.0\05.EqualArrays.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\05.EqualArrays\obj\Debug\net6.0\05.EqualArrays.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\05.EqualArrays\obj\Debug\net6.0\05.EqualArrays.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\05.EqualArrays\obj\Debug\net6.0\05.EqualArrays.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\05.EqualArrays\obj\Debug\net6.0\refint\05.EqualArrays.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\05.EqualArrays\obj\Debug\net6.0\05.EqualArrays.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\05.EqualArrays\obj\Debug\net6.0\05.EqualArrays.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\10.Arrays_Lab\05.EqualArrays\obj\Debug\net6.0\ref\05.EqualArrays.dll
