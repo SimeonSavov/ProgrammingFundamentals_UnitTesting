@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\02.ListOfProducts\bin\Debug\net6.0\02.ListOfProducts.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\02.ListOfProducts\bin\Debug\net6.0\02.ListOfProducts.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\02.ListOfProducts\bin\Debug\net6.0\02.ListOfProducts.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\02.ListOfProducts\bin\Debug\net6.0\02.ListOfProducts.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\02.ListOfProducts\bin\Debug\net6.0\02.ListOfProducts.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\02.ListOfProducts\obj\Debug\net6.0\02.ListOfProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\02.ListOfProducts\obj\Debug\net6.0\02.ListOfProducts.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\02.ListOfProducts\obj\Debug\net6.0\02.ListOfProducts.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\02.ListOfProducts\obj\Debug\net6.0\02.ListOfProducts.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\02.ListOfProducts\obj\Debug\net6.0\02.ListOfProducts.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\02.ListOfProducts\obj\Debug\net6.0\refint\02.ListOfProducts.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\02.ListOfProducts\obj\Debug\net6.0\02.ListOfProducts.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\02.ListOfProducts\obj\Debug\net6.0\02.ListOfProducts.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\02.ListOfProducts\obj\Debug\net6.0\ref\02.ListOfProducts.dll
