@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\01.ChangeList\bin\Debug\net6.0\01.ChangeList.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\01.ChangeList\bin\Debug\net6.0\01.ChangeList.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\01.ChangeList\bin\Debug\net6.0\01.ChangeList.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\01.ChangeList\bin\Debug\net6.0\01.ChangeList.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\01.ChangeList\bin\Debug\net6.0\01.ChangeList.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\01.ChangeList\obj\Debug\net6.0\01.ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\01.ChangeList\obj\Debug\net6.0\01.ChangeList.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\01.ChangeList\obj\Debug\net6.0\01.ChangeList.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\01.ChangeList\obj\Debug\net6.0\01.ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\01.ChangeList\obj\Debug\net6.0\01.ChangeList.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\01.ChangeList\obj\Debug\net6.0\refint\01.ChangeList.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\01.ChangeList\obj\Debug\net6.0\01.ChangeList.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\01.ChangeList\obj\Debug\net6.0\01.ChangeList.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\01.ChangeList\obj\Debug\net6.0\ref\01.ChangeList.dll
