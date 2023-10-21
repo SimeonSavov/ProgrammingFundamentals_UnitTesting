@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\05.ListManipulationAdvanced\bin\Debug\net6.0\05.ListManipulationAdvanced.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\05.ListManipulationAdvanced\bin\Debug\net6.0\05.ListManipulationAdvanced.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\05.ListManipulationAdvanced\bin\Debug\net6.0\05.ListManipulationAdvanced.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\05.ListManipulationAdvanced\bin\Debug\net6.0\05.ListManipulationAdvanced.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\05.ListManipulationAdvanced\bin\Debug\net6.0\05.ListManipulationAdvanced.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\05.ListManipulationAdvanced\obj\Debug\net6.0\05.ListManipulationAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\05.ListManipulationAdvanced\obj\Debug\net6.0\05.ListManipulationAdvanced.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\05.ListManipulationAdvanced\obj\Debug\net6.0\05.ListManipulationAdvanced.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\05.ListManipulationAdvanced\obj\Debug\net6.0\05.ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\05.ListManipulationAdvanced\obj\Debug\net6.0\05.ListManipulationAdvanced.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\05.ListManipulationAdvanced\obj\Debug\net6.0\refint\05.ListManipulationAdvanced.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\05.ListManipulationAdvanced\obj\Debug\net6.0\05.ListManipulationAdvanced.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\05.ListManipulationAdvanced\obj\Debug\net6.0\05.ListManipulationAdvanced.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\11.Lists_Lab\05.ListManipulationAdvanced\obj\Debug\net6.0\ref\05.ListManipulationAdvanced.dll
