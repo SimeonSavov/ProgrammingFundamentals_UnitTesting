@@ -200,3 +200,16 @@ In the tenth lesson of this course, I venture into the world of arrays in C# pro
 
 With this lesson, I've equipped myself with the fundamental knowledge and techniques to effectively work with arrays, a crucial data structure in programming, laying the foundation for more advanced data manipulation and processing tasks.
 
+## About the Eleventh Section - Lists (Lesson 11)
+
+In the eleventh lesson of this course, I delved into the world of lists in C#, expanding my knowledge and capabilities in working with data collections. Here's an overview of the key insights gained from the provided exercises:
+
+1. **List Manipulation:** I learned to create and manipulate lists by reading user input and performing insertions or deletions based on specific commands. This exercise sharpened my list handling skills.
+
+2. **Alphabetical List:** I tackled the task of sorting a list of strings in alphabetical order and displaying the results. This exercise improved my understanding of list sorting and management.
+
+3. **Positive Integers:** I filtered and reversed a list of integers, removing negative numbers and reversing the remaining elements. This task enhanced my list filtering and reversal abilities.
+
+4. **Dynamic List Operations:** I developed a program that reads a list of integers and processes a variety of user commands, such as adding, removing, checking for containment, and applying filters. This exercise broadened my capabilities in dynamic list operations.
+
+With these exercises, I've expanded my proficiency in working with lists, a versatile data structure in C#. These skills will prove invaluable in handling and processing various data collections in more complex programming tasks.
