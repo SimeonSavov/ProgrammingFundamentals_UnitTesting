@@ -214,3 +214,29 @@ In the eleventh lesson of this course, I delved into the world of lists in C#, e
 4. **Dynamic List Operations:** I developed a program that reads a list of integers and processes a variety of user commands, such as adding, removing, checking for containment, and applying filters. This exercise broadened my capabilities in dynamic list operations.
 
 With these exercises, I've expanded my proficiency in working with lists, a versatile data structure in C#. These skills will prove invaluable in handling and processing various data collections in more complex programming tasks.
+
+## About the Twelfth Section - Arrays and Lists (Lesson 12)
+
+In the twelfth lesson of this course, I delved into a series of exercises that expanded my knowledge and skills in working with arrays and lists in C#. These exercises challenged me to manipulate data collections efficiently and apply various techniques to solve complex programming problems. Here's a glimpse of what I accomplished in this section:
+
+1. **List Pair Sums:** I developed a solution to calculate pair sums from a list of integers, providing valuable practice in list manipulation and mathematical operations.
+
+2. **Recursive List Sum:** I tackled a recursive approach to calculate the sum of a list of integers, improving my understanding of recursion and list processing.
+
+3. **Concatenation and Merge:** I mastered the art of merging and concatenating two lists, enhancing my skills in list management and data combination.
+
+4. **Element Aggregation:** I created a program to process a list of integers, focusing on aggregating elements by identifying repeating sequences, refining my problem-solving and list manipulation abilities.
+
+5. **Bomb Numbers:** I designed a solution to simulate the detonation of "bomb" numbers within a list, calculating the remaining sum after the detonation. This exercise improved my skills in conditional logic and list modifications.
+
+6. **Number Wars:** I implemented a game of "Number Wars" involving two players and their lists of integers. The game's logic involved comparing and transferring cards between players, and determining the winner based on the final sum. This exercise offered valuable experience in game logic and list handling.
+
+7. **Even-Odd Rows:** I created a program to read a matrix of integers row by row, separating even and odd rows into distinct lists. This exercise strengthened my matrix processing capabilities and list organization skills.
+
+8. **Array Rotation:** I solved the problem of rotating an array by a specified number of positions, expanding my knowledge of array operations and data manipulation.
+
+9. **Longest Subsequence:** I developed a solution to find the longest subsequence of consecutive equal elements in a list of integers, emphasizing my skills in sequence identification and list processing.
+
+10. **Top Integers:** I crafted a program to identify and extract "top integers" from a list, further enhancing my abilities in list traversal and conditional checking.
+
+These exercises have equipped me with an extensive toolkit for handling arrays and lists, reinforcing my understanding of data structures and data manipulation techniques in C#. I'm now well-prepared for more advanced programming challenges and projects.
