@@ -15,6 +15,7 @@ Welcome to my repository for the 'Programming Fundamentals and Unit Testing' cou
 - [NestedLoopsAndMethods_Exercises](https://github.com/SimeonSavov/QA_Engineering#about-the-ninth-section---nested-loops-and-methods-lesson-9)
 - [Arrays_Lab](https://github.com/SimeonSavov/QA_Engineering#about-the-tenth-section---arrays-lesson-10)
 - [Lists_Lab](https://github.com/SimeonSavov/QA_Engineering#about-the-eleventh-section---lists-lesson-11)
+- [ArraysAndLists_Exercises](https://github.com/SimeonSavov/QA_Engineering#about-the-twelfth-section---arrays-and-lists-lesson-12)
 
 ## About the First Section - Conditional Statements (Lesson 1)
 
