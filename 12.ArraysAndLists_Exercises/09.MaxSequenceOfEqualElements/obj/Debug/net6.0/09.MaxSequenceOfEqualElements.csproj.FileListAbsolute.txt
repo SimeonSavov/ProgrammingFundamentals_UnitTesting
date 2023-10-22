@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\12.ArraysAndLists_Exercises\09.MaxSequenceOfEqualElements\bin\Debug\net6.0\09.MaxSequenceOfEqualElements.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\12.ArraysAndLists_Exercises\09.MaxSequenceOfEqualElements\bin\Debug\net6.0\09.MaxSequenceOfEqualElements.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\12.ArraysAndLists_Exercises\09.MaxSequenceOfEqualElements\bin\Debug\net6.0\09.MaxSequenceOfEqualElements.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\12.ArraysAndLists_Exercises\09.MaxSequenceOfEqualElements\bin\Debug\net6.0\09.MaxSequenceOfEqualElements.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\12.ArraysAndLists_Exercises\09.MaxSequenceOfEqualElements\bin\Debug\net6.0\09.MaxSequenceOfEqualElements.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\12.ArraysAndLists_Exercises\09.MaxSequenceOfEqualElements\obj\Debug\net6.0\09.MaxSequenceOfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\12.ArraysAndLists_Exercises\09.MaxSequenceOfEqualElements\obj\Debug\net6.0\09.MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\12.ArraysAndLists_Exercises\09.MaxSequenceOfEqualElements\obj\Debug\net6.0\09.MaxSequenceOfEqualElements.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\12.ArraysAndLists_Exercises\09.MaxSequenceOfEqualElements\obj\Debug\net6.0\09.MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\12.ArraysAndLists_Exercises\09.MaxSequenceOfEqualElements\obj\Debug\net6.0\09.MaxSequenceOfEqualElements.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\12.ArraysAndLists_Exercises\09.MaxSequenceOfEqualElements\obj\Debug\net6.0\refint\09.MaxSequenceOfEqualElements.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\12.ArraysAndLists_Exercises\09.MaxSequenceOfEqualElements\obj\Debug\net6.0\09.MaxSequenceOfEqualElements.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\12.ArraysAndLists_Exercises\09.MaxSequenceOfEqualElements\obj\Debug\net6.0\09.MaxSequenceOfEqualElements.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\12.ArraysAndLists_Exercises\09.MaxSequenceOfEqualElements\obj\Debug\net6.0\ref\09.MaxSequenceOfEqualElements.dll
