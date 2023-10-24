@@ -241,3 +241,19 @@ In the twelfth lesson of this course, I delved into a series of exercises that e
 10. **Top Integers:** I crafted a program to identify and extract "top integers" from a list, further enhancing my abilities in list traversal and conditional checking.
 
 These exercises have equipped me with an extensive toolkit for handling arrays and lists, reinforcing my understanding of data structures and data manipulation techniques in C#. I'm now well-prepared for more advanced programming challenges and projects.
+
+## About the Thirteenth Section - Unit Testing Methods (Lesson 13)
+
+In the thirteenth lesson of this course, I ventured into the realm of unit testing methods in C#, a fundamental practice that ensures the reliability and correctness of my code. This section consisted of implementing and testing various methods, challenging me to validate their functionality and handle edge cases effectively. Here's an overview of what I accomplished in this section:
+
+1. **Mathematical Operations:** I explored unit testing by implementing and testing methods for addition and subtraction. These basic operations laid the foundation for understanding unit testing concepts.
+
+2. **Factorial Calculator:** I built and tested a method for calculating factorials, learning how to handle both typical and edge cases while ensuring that the method adhered to its specifications.
+
+3. **Grading System:** I practiced unit testing by creating and testing a method that converts numerical grades into descriptive words. This exercise reinforced my understanding of test cases and expected outcomes.
+
+4. **String Manipulation:** I dived into testing string manipulation methods, focusing on reversing strings. I learned how to construct test cases and verify the correctness of the reversed strings.
+
+5. **Triangle Printing:** I ventured into unit testing for methods that involve complex logic. I implemented and tested a method for printing triangles of different sizes, refining my skills in designing test cases and ensuring the desired output.
+
+These exercises equipped me with the essential knowledge and practical experience in unit testing methods, a crucial aspect of maintaining code quality and reliability. I'm now well-prepared to implement robust unit tests for my future coding projects and ensure the accuracy and functionality of my code.
