@@ -17,6 +17,7 @@ Welcome to my repository for the 'Programming Fundamentals and Unit Testing' cou
 - [Lists_Lab](https://github.com/SimeonSavov/QA_Engineering#about-the-eleventh-section---lists-lesson-11)
 - [ArraysAndLists_Exercises](https://github.com/SimeonSavov/QA_Engineering#about-the-twelfth-section---arrays-and-lists-lesson-12)
 - [UnitTestingMethods_Lab](https://github.com/SimeonSavov/QA_Engineering#about-the-thirteenth-section---unit-testing-methods-lesson-13)
+- [UnitTestingArraysLists_Lab](https://github.com/SimeonSavov/QA_Engineering#about-the-fourteenth-section---unit-testing-arrays-and-lists-lesson-14)
 
 ## About the First Section - Conditional Statements (Lesson 1)
 
