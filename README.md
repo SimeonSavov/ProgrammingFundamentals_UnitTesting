@@ -258,3 +258,21 @@ In the thirteenth lesson of this course, I ventured into the realm of unit testi
 5. **Triangle Printing:** I ventured into unit testing for methods that involve complex logic. I implemented and tested a method for printing triangles of different sizes, refining my skills in designing test cases and ensuring the desired output.
 
 These exercises equipped me with the essential knowledge and practical experience in unit testing methods, a crucial aspect of maintaining code quality and reliability. I'm now well-prepared to implement robust unit tests for my future coding projects and ensure the accuracy and functionality of my code.
+
+## About the Fourteenth Section - Unit Testing Arrays and Lists (Lesson 14)
+
+In the fourteenth lesson of this course, I delved into the vital practice of unit testing, focusing on arrays and lists in C#. This section revolved around creating and testing methods to validate their functionality and correctness, especially when handling different types of collections. Here's an overview of what I achieved in this section:
+
+1. **Adjacent Equal Number Sum:** I implemented and rigorously tested a method that efficiently sums adjacent equal numbers in a list, ensuring the reliability of this operation.
+
+2. **Array Average Calculator:** I crafted and tested a method for calculating the average of an array, emphasizing the importance of handling edge cases and ensuring the method's accuracy.
+
+3. **Even-Odd Subtraction:** I ventured into unit testing by developing and testing a method that calculates the absolute difference between the sums of even and odd numbers in an array, sharpening my testing skills for diverse scenarios.
+
+4. **Gauss Trick:** I explored testing for list manipulation methods, specifically a Gauss trick for summing pairs of list elements. This exercise solidified my understanding of testing different list structures and element sums.
+
+5. **Maximum Number Finder:** I created a method and performed comprehensive testing for finding the maximum number in a list, addressing various scenarios and ensuring the method's reliability.
+
+6. **Array Reversal:** I wrapped up the section by developing a method and conducting tests to reverse the order of elements in an array, reinforcing my expertise in verifying expected outcomes.
+
+These exercises have equipped me with a strong foundation in unit testing, particularly for arrays and lists. I can now confidently validate the functionality and accuracy of methods that work with collections, ensuring the reliability of my code in real-world applications.
