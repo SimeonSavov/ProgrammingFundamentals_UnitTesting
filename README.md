@@ -277,3 +277,29 @@ In the fourteenth lesson of this course, I delved into the vital practice of uni
 6. **Array Reversal:** I wrapped up the section by developing a method and conducting tests to reverse the order of elements in an array, reinforcing my expertise in verifying expected outcomes.
 
 These exercises have equipped me with a strong foundation in unit testing, particularly for arrays and lists. I can now confidently validate the functionality and accuracy of methods that work with collections, ensuring the reliability of my code in real-world applications.
+
+## About the Fifteenth Section - Unit Testing Methods, Arrays and Lists (Lesson 15)
+
+In the fifteenth lesson of this course, I continued to strengthen my unit testing skills, focusing on methods that involve arrays and lists in C#. This section was instrumental in furthering my understanding of how to develop and test methods that operate on collections, ensuring their accuracy and reliability. Here's an overview of the key topics covered in this section:
+
+1. **Duplicates Detection and Removal:** I created and extensively tested a method for identifying and removing duplicate elements from an integer array. The thorough testing ensured that the method functions as expected in various scenarios.
+
+2. **Email Validation:** I tackled email validation, developing a method to check the validity of email addresses. Robust unit testing was performed to confirm that the method correctly identifies both valid and invalid email addresses.
+
+3. **Filtering Digits from Strings:** I ventured into unit testing by creating a method to filter numeric digits from a character array. Testing involved various cases, including null input and arrays with mixed characters and digits.
+
+4. **Fibonacci Number Calculation:** I developed and tested a method to calculate Fibonacci numbers, addressing negative inputs and verifying that the method produces accurate results for both small and large Fibonacci numbers.
+
+5. **Matrix Addition:** I delved into the realm of matrices, creating a method for adding two matrices. The tests covered a range of scenarios, including empty matrices, matrices with differing dimensions, and matrices with negative and positive values.
+
+6. **Number Processing:** I explored methods for processing numbers, particularly integers. I implemented tests to validate the handling of even and odd numbers, zero, negative numbers, and empty input arrays.
+
+7. **Palindrome Detection:** I created a method to detect palindromes in lists of words. The tests evaluated the method's ability to correctly identify palindromes while accommodating various word lengths and cases.
+
+8. **Sorting in a Pattern:** I developed a method to sort an array in a specific pattern, alternating between ascending and descending order. The unit tests confirmed the method's ability to correctly sort arrays of distinct integers.
+
+9. **Largest Prime Factor:** I created a method for finding the largest prime factor of a number. The unit tests covered cases involving negative numbers, prime numbers, and large numbers.
+
+10. **String Reversal:** Finally, I implemented and tested a method to reverse an array of strings. The tests included empty arrays, single-string reversals, and handling special characters within strings.
+
+This section not only reinforced my unit testing skills but also broadened my understanding of creating robust methods for working with arrays and lists. I can now confidently develop and test methods that manipulate and process collections, ensuring the correctness and reliability of my code.
