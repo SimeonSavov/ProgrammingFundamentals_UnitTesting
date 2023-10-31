@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_1\01.SumFactorialEvenDigits\bin\Debug\net6.0\01.SumFactorialEvenDigits.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_1\01.SumFactorialEvenDigits\bin\Debug\net6.0\01.SumFactorialEvenDigits.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_1\01.SumFactorialEvenDigits\bin\Debug\net6.0\01.SumFactorialEvenDigits.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_1\01.SumFactorialEvenDigits\bin\Debug\net6.0\01.SumFactorialEvenDigits.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_1\01.SumFactorialEvenDigits\bin\Debug\net6.0\01.SumFactorialEvenDigits.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_1\01.SumFactorialEvenDigits\obj\Debug\net6.0\01.SumFactorialEvenDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_1\01.SumFactorialEvenDigits\obj\Debug\net6.0\01.SumFactorialEvenDigits.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_1\01.SumFactorialEvenDigits\obj\Debug\net6.0\01.SumFactorialEvenDigits.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_1\01.SumFactorialEvenDigits\obj\Debug\net6.0\01.SumFactorialEvenDigits.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_1\01.SumFactorialEvenDigits\obj\Debug\net6.0\01.SumFactorialEvenDigits.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_1\01.SumFactorialEvenDigits\obj\Debug\net6.0\refint\01.SumFactorialEvenDigits.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_1\01.SumFactorialEvenDigits\obj\Debug\net6.0\01.SumFactorialEvenDigits.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_1\01.SumFactorialEvenDigits\obj\Debug\net6.0\01.SumFactorialEvenDigits.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_1\01.SumFactorialEvenDigits\obj\Debug\net6.0\ref\01.SumFactorialEvenDigits.dll
