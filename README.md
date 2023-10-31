@@ -19,6 +19,7 @@ Welcome to my repository for the 'Programming Fundamentals and Unit Testing' cou
 - [UnitTestingMethods_Lab](https://github.com/SimeonSavov/QA_Engineering#about-the-thirteenth-section---unit-testing-methods-lesson-13)
 - [UnitTestingArraysLists_Lab](https://github.com/SimeonSavov/QA_Engineering#about-the-fourteenth-section---unit-testing-arrays-and-lists-lesson-14)
 - [UnitTestingMethodsArraysAndLists_Exercises](https://github.com/SimeonSavov/QA_Engineering#about-the-fifteenth-section---unit-testing-methods-arrays-and-lists-lesson-15)
+- [ExamPreparation_1](https://github.com/SimeonSavov/QA_Engineering#exam-preparation-1---c-methods-and-unit-testing)
 
 ## About the First Section - Conditional Statements (Lesson 1)
 
