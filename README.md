@@ -304,3 +304,26 @@ In the fifteenth lesson of this course, I continued to strengthen my unit testin
 10. **String Reversal:** Finally, I implemented and tested a method to reverse an array of strings. The tests included empty arrays, single-string reversals, and handling special characters within strings.
 
 This section not only reinforced my unit testing skills but also broadened my understanding of creating robust methods for working with arrays and lists. I can now confidently develop and test methods that manipulate and process collections, ensuring the correctness and reliability of my code.
+
+## Exam Preparation 1 - C# Methods and Unit Testing
+
+In this section, I have undertaken an exam preparation with a series of four tasks to assess my proficiency in C# programming and unit testing. Each task addresses different coding challenges and is complemented by rigorous unit tests to ensure the accuracy and reliability of my code.
+
+ **Task 1 - Factorial Sum**
+ 
+The first task involves the calculation of the sum of factorials for even digits within an input number. I've implemented an efficient method for factorial calculations and applied it to sum factorials of even digits from the input number. A comprehensive set of unit tests validates the correctness of this mathematical operation.
+
+ **Task 2 - Middle Array Average**
+ 
+Task two requires calculating the average of values within the middle of an integer array. My code identifies the middle elements and computes their average. Extensive unit tests cover various scenarios and edge cases to verify the accuracy of the results.
+
+ **Task 3 - Closest Point**
+ 
+The third task challenges me to determine the closest point in a two-dimensional space based on their absolute distances. I've created a method for calculating and returning the closest point. A comprehensive suite of unit tests ensures the method's correctness across different proximity scenarios.
+
+ **Task 4 - Fold Array Sum**
+ 
+The fourth task focuses on array manipulation by folding and summing elements from the top and bottom halves. I've developed the `FoldArray` method to perform this operation and created unit tests to validate its accuracy. The tests encompass arrays of varying lengths, negative numbers, empty arrays, and a range of folding scenarios.
+
+This exam preparation section serves as a comprehensive assessment of my C# programming skills, including method development, mathematical operations, and proficiency in unit testing. The tasks cover a wide spectrum of coding challenges, allowing me to showcase my ability to write efficient and reliable code, rigorously tested for correctness.
+
