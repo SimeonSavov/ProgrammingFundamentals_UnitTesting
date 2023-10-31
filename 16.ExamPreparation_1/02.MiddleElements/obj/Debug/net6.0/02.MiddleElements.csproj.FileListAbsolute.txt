@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_1\02.MiddleElements\bin\Debug\net6.0\02.MiddleElements.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_1\02.MiddleElements\bin\Debug\net6.0\02.MiddleElements.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_1\02.MiddleElements\bin\Debug\net6.0\02.MiddleElements.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_1\02.MiddleElements\bin\Debug\net6.0\02.MiddleElements.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_1\02.MiddleElements\bin\Debug\net6.0\02.MiddleElements.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_1\02.MiddleElements\obj\Debug\net6.0\02.MiddleElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_1\02.MiddleElements\obj\Debug\net6.0\02.MiddleElements.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_1\02.MiddleElements\obj\Debug\net6.0\02.MiddleElements.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_1\02.MiddleElements\obj\Debug\net6.0\02.MiddleElements.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_1\02.MiddleElements\obj\Debug\net6.0\02.MiddleElements.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_1\02.MiddleElements\obj\Debug\net6.0\refint\02.MiddleElements.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_1\02.MiddleElements\obj\Debug\net6.0\02.MiddleElements.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_1\02.MiddleElements\obj\Debug\net6.0\02.MiddleElements.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_1\02.MiddleElements\obj\Debug\net6.0\ref\02.MiddleElements.dll
