@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_2\01.MagicNumbers\bin\Debug\net6.0\01.MagicNumbers.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_2\01.MagicNumbers\bin\Debug\net6.0\01.MagicNumbers.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_2\01.MagicNumbers\bin\Debug\net6.0\01.MagicNumbers.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_2\01.MagicNumbers\bin\Debug\net6.0\01.MagicNumbers.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_2\01.MagicNumbers\bin\Debug\net6.0\01.MagicNumbers.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_2\01.MagicNumbers\obj\Debug\net6.0\01.MagicNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_2\01.MagicNumbers\obj\Debug\net6.0\01.MagicNumbers.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_2\01.MagicNumbers\obj\Debug\net6.0\01.MagicNumbers.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_2\01.MagicNumbers\obj\Debug\net6.0\01.MagicNumbers.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_2\01.MagicNumbers\obj\Debug\net6.0\01.MagicNumbers.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_2\01.MagicNumbers\obj\Debug\net6.0\refint\01.MagicNumbers.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_2\01.MagicNumbers\obj\Debug\net6.0\01.MagicNumbers.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_2\01.MagicNumbers\obj\Debug\net6.0\01.MagicNumbers.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_2\01.MagicNumbers\obj\Debug\net6.0\ref\01.MagicNumbers.dll
