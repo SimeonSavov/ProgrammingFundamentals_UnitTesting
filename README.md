@@ -20,6 +20,7 @@ Welcome to my repository for the 'Programming Fundamentals and Unit Testing' cou
 - [UnitTestingArraysLists_Lab](https://github.com/SimeonSavov/QA_Engineering#about-the-fourteenth-section---unit-testing-arrays-and-lists-lesson-14)
 - [UnitTestingMethodsArraysAndLists_Exercises](https://github.com/SimeonSavov/QA_Engineering#about-the-fifteenth-section---unit-testing-methods-arrays-and-lists-lesson-15)
 - [ExamPreparation_1](https://github.com/SimeonSavov/QA_Engineering#exam-preparation-1---c-methods-and-unit-testing)
+- [ExamPreparation_2](https://github.com/SimeonSavov/QA_Engineering#exam-preparation-2---c-logical-and-unit-testing)
 
 ## About the First Section - Conditional Statements (Lesson 1)
 
@@ -328,7 +329,7 @@ The fourth task focuses on array manipulation by folding and summing elements fr
 
 This exam preparation section serves as a comprehensive assessment of my C# programming skills, including method development, mathematical operations, and proficiency in unit testing. The tasks cover a wide spectrum of coding challenges, allowing me to showcase my ability to write efficient and reliable code, rigorously tested for correctness.
 
-# Exam Preparation 2 - C# Logical and Unit Testing
+## Exam Preparation 2 - C# Logical and Unit Testing
 
 In this Exam Preparation 2, I've encountered four diverse tasks that evaluate my proficiency in C# programming and unit testing. Each task presents a unique coding challenge, and I've ensured the correctness and reliability of my code through thorough unit testing.
 
