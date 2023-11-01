@@ -328,3 +328,24 @@ The fourth task focuses on array manipulation by folding and summing elements fr
 
 This exam preparation section serves as a comprehensive assessment of my C# programming skills, including method development, mathematical operations, and proficiency in unit testing. The tasks cover a wide spectrum of coding challenges, allowing me to showcase my ability to write efficient and reliable code, rigorously tested for correctness.
 
+# Exam Preparation 2 - C# Logical and Unit Testing
+
+In this Exam Preparation 2, I've encountered four diverse tasks that evaluate my proficiency in C# programming and unit testing. Each task presents a unique coding challenge, and I've ensured the correctness and reliability of my code through thorough unit testing.
+
+ **Task 1 - Prime Sum**
+ 
+The first task revolves around identifying and summing prime digits within a given number. I've developed a method that efficiently checks for prime digits and sums them if they meet specific criteria. Comprehensive unit tests cover various scenarios to confirm the method's accuracy.
+
+ **Task 2 - Selection Statistics**
+ 
+In task two, I tackle the challenge of finding the maximum and minimum values within a portion of an array. My solution efficiently computes these statistics based on user-defined selection. Extensive unit tests encompass a range of selection sizes, ensuring the correct identification of max and min values.
+
+ **Task 3 - Pascal's Triangle**
+ 
+Task three is an exploration of Pascal's Triangle, requiring the generation of its first 'n' rows. I've crafted a method that accurately constructs the triangle's rows and verified it through unit tests, covering cases like zero rows, negative input, and various row counts.
+
+ **Task 4 - Longest Increasing Subsequence**
+ 
+The fourth task delves into dynamic programming to find the Longest Increasing Subsequence (LIS) of an integer array. My code efficiently computes the LIS and returns it as a string. Comprehensive unit tests validate the method's accuracy, considering scenarios like null arrays, empty arrays, and both sorted and unsorted arrays.
+
+This exam preparation section showcases my versatility in addressing coding challenges and emphasizes the importance of thorough unit testing in ensuring the reliability and correctness of my C# code.
