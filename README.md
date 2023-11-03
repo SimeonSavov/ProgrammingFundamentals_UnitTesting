@@ -21,6 +21,7 @@ Welcome to my repository for the 'Programming Fundamentals and Unit Testing' cou
 - [UnitTestingMethodsArraysAndLists_Exercises](https://github.com/SimeonSavov/QA_Engineering#about-the-fifteenth-section---unit-testing-methods-arrays-and-lists-lesson-15)
 - [ExamPreparation_1](https://github.com/SimeonSavov/QA_Engineering#exam-preparation-1---c-methods-and-unit-testing)
 - [ExamPreparation_2](https://github.com/SimeonSavov/QA_Engineering#exam-preparation-2---c-logical-and-unit-testing)
+- [ExamPreparation_3](https://github.com/SimeonSavov/QA_Engineering#exam-preparation-3---c-logical-tasks-and-unit-testing)
 
 ## About the First Section - Conditional Statements (Lesson 1)
 
