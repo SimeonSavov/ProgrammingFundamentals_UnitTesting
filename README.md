@@ -350,3 +350,25 @@ Task three is an exploration of Pascal's Triangle, requiring the generation of i
 The fourth task delves into dynamic programming to find the Longest Increasing Subsequence (LIS) of an integer array. My code efficiently computes the LIS and returns it as a string. Comprehensive unit tests validate the method's accuracy, considering scenarios like null arrays, empty arrays, and both sorted and unsorted arrays.
 
 This exam preparation section showcases my versatility in addressing coding challenges and emphasizes the importance of thorough unit testing in ensuring the reliability and correctness of my C# code.
+
+## Exam Preparation 3 - C# Logical Tasks and Unit Testing
+
+In Exam Preparation 3, I tackled four unique coding challenges that put my C# programming skills to the test while emphasizing the importance of unit testing in ensuring the accuracy and reliability of my code.
+
+**Task 1 - Digit to Word Converter**
+
+The first task involved transforming each digit in a given number into its corresponding word representation. I developed a solution using a `switch` statement to map digits to words. This task underscored the need for meticulous handling of each digit to produce the correct word representation, a correctness that was rigorously verified through unit tests.
+
+**Task 2 - Array Selection Average**
+
+Task two required calculating the average of selected elements in an integer array. My code efficiently identified the specified selection, computed the average, and presented the result with precision. The unit tests rigorously assessed the code across various selection sizes, ensuring the accurate determination of maximum and minimum values.
+
+**Task 3 - File Path Analyzer**
+
+The third task delved into the parsing of file paths to extract file names and extensions. I introduced the `ExtractFile` class, which adeptly managed different path scenarios, including paths without extensions. The unit tests comprehensively scrutinized the class's behavior, cementing its robustness and correctness.
+
+**Task 4 - Drum Hit Simulation**
+
+The fourth task simulated drum hits and calculated the quality of drums and the remaining balance. My `DrumSet` class skillfully processed the commands, adjusting drum quality, and deducting money for repairs or replacements as required. The unit tests encompassed various scenarios, including handling invalid commands and managing insufficient balance, ensuring the program's dependability.
+
+This section of the exam preparation celebrated my diverse C# programming abilities, revealing my proficiency in tackling an array of coding challenges. The focus on unit testing highlighted the pivotal role of precision and reliability in C# code, a pivotal aspect of my programming journey.
