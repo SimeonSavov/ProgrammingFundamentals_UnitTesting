@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_3\01.EnglishNameOfEachDigit\bin\Debug\net6.0\01.EnglishNameOfEachDigit.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_3\01.EnglishNameOfEachDigit\bin\Debug\net6.0\01.EnglishNameOfEachDigit.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_3\01.EnglishNameOfEachDigit\bin\Debug\net6.0\01.EnglishNameOfEachDigit.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_3\01.EnglishNameOfEachDigit\bin\Debug\net6.0\01.EnglishNameOfEachDigit.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_3\01.EnglishNameOfEachDigit\bin\Debug\net6.0\01.EnglishNameOfEachDigit.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_3\01.EnglishNameOfEachDigit\obj\Debug\net6.0\01.EnglishNameOfEachDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_3\01.EnglishNameOfEachDigit\obj\Debug\net6.0\01.EnglishNameOfEachDigit.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_3\01.EnglishNameOfEachDigit\obj\Debug\net6.0\01.EnglishNameOfEachDigit.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_3\01.EnglishNameOfEachDigit\obj\Debug\net6.0\01.EnglishNameOfEachDigit.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_3\01.EnglishNameOfEachDigit\obj\Debug\net6.0\01.EnglishNameOfEachDigit.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_3\01.EnglishNameOfEachDigit\obj\Debug\net6.0\refint\01.EnglishNameOfEachDigit.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_3\01.EnglishNameOfEachDigit\obj\Debug\net6.0\01.EnglishNameOfEachDigit.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_3\01.EnglishNameOfEachDigit\obj\Debug\net6.0\01.EnglishNameOfEachDigit.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_3\01.EnglishNameOfEachDigit\obj\Debug\net6.0\ref\01.EnglishNameOfEachDigit.dll
