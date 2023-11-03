@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_3\02.AverageLastElements\bin\Debug\net6.0\02.AverageLastElements.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_3\02.AverageLastElements\bin\Debug\net6.0\02.AverageLastElements.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_3\02.AverageLastElements\bin\Debug\net6.0\02.AverageLastElements.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_3\02.AverageLastElements\bin\Debug\net6.0\02.AverageLastElements.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_3\02.AverageLastElements\bin\Debug\net6.0\02.AverageLastElements.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_3\02.AverageLastElements\obj\Debug\net6.0\02.AverageLastElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_3\02.AverageLastElements\obj\Debug\net6.0\02.AverageLastElements.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_3\02.AverageLastElements\obj\Debug\net6.0\02.AverageLastElements.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_3\02.AverageLastElements\obj\Debug\net6.0\02.AverageLastElements.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_3\02.AverageLastElements\obj\Debug\net6.0\02.AverageLastElements.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_3\02.AverageLastElements\obj\Debug\net6.0\refint\02.AverageLastElements.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_3\02.AverageLastElements\obj\Debug\net6.0\02.AverageLastElements.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_3\02.AverageLastElements\obj\Debug\net6.0\02.AverageLastElements.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ExamPreparation_3\02.AverageLastElements\obj\Debug\net6.0\ref\02.AverageLastElements.dll
