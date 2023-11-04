@@ -1,6 +1,6 @@
 # Programming Fundamentals and Unit Testing with C#
 
-Welcome to my repository for the 'Programming Fundamentals and Unit Testing' course in C# at SoftUni. Here, I will be sharing my exercises and projects.
+Welcome to my repository for the 'Programming Fundamentals and Unit Testing' course in QA Engineering at SoftUni. Here, I will be sharing my exercises and projects.
 
 ## Folder Structure
 
